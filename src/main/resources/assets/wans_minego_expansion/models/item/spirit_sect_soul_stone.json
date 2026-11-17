@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "wans_minego_expansion:item/spirit_sect_soul_stone" }
+}

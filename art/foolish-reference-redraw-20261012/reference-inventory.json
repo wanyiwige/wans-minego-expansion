@@ -1,0 +1,92 @@
+[
+  {
+    "key": "pyre",
+    "texture": "assets/foolish/textures/entities/newpyre.png",
+    "geo": "assets/foolish/geo/newpyre.geo.json",
+    "texture_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "key": "timewelder",
+    "texture": "assets/foolish/textures/entities/newtimewelder.png",
+    "geo": "assets/foolish/geo/newtimewelder.geo.json",
+    "texture_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "key": "thrasher",
+    "texture": "assets/foolish/textures/entities/newnewthrasher.png",
+    "geo": "assets/foolish/geo/thrashernew.geo.json",
+    "texture_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "key": "sacilic_abomination",
+    "texture": "assets/foolish/textures/entities/newnewsacilicabomination.png",
+    "geo": "assets/foolish/geo/newsacilicabomination.geo.json",
+    "texture_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "key": "thunderbird",
+    "texture": "assets/foolish/textures/entities/newestthunderbird.png",
+    "geo": "assets/foolish/geo/newestthunderbird.geo.json",
+    "texture_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "key": "terrorflora",
+    "texture": "assets/foolish/textures/entities/terrorflora.png",
+    "geo": "assets/foolish/geo/newestterrorflora.geo.json",
+    "texture_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "key": "wendigrudge",
+    "texture": "assets/foolish/textures/entities/wendigrudge2.png",
+    "geo": "assets/foolish/geo/wendigrudge.geo.json",
+    "texture_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "key": "astralis",
+    "texture": "assets/foolish/textures/entities/newastralisslightlylessshaded.png",
+    "geo": "assets/foolish/geo/newastralis.geo.json",
+    "texture_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "key": "varmint_king",
+    "texture": "assets/foolish/textures/entities/seven_foot_rat_along_with_his_rats.png",
+    "geo": "assets/foolish/geo/varmintkingnew.geo.json",
+    "texture_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "key": "scarlant_queen",
+    "texture": "assets/foolish/textures/entities/attack_of_the_killer_queen.png",
+    "geo": "assets/foolish/geo/scarlantqueen.geo.json",
+    "texture_size": [
+      256,
+      256
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "bielgg_spells:roaring_knight_helmet"
+    },
+    "B": {
+      "item": "bielgg_spells:roaring_knight_chestplate"
+    },
+    "C": {
+      "item": "bielgg_spells:roaring_knight_leggings"
+    },
+    "D": {
+      "item": "bielgg_spells:roaring_knight_boots"
+    },
+    "E": {
+      "tag": "bielgg_spells:shadow_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:shadow_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bielgg_spells"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "roaring"
+    }
+  ]
+}

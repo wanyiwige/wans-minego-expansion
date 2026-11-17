@@ -1,0 +1,357 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "wans_minego_expansion:symmetry_sect_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:spirit_sect_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:insect_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:dream_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:wind_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:annihilation_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:shadow_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:unstable_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:relicron_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:infinity_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:tainted_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:trailblazer_arcana_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:fusion_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:ars_nouveau_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:abyssal_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:technomancy_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:esoteric_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:gluttony_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:glintstone_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:glutton_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_pyre_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_timewelder_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_thrasher_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_sacilic_abomination_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_varmint_king_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_thunderbird_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_scarlant_queen_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_terrorflora_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_wendigrudge_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_astralis_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:soul_of_stellar_hollow",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:soul_of_foolish",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_bloom_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_storm_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_time_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_scarlet_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_waste_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_mire_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_growth_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_ash_biome_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:soul_of_otherworld",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_sacilite_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_thunderstone_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_corrosive_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_blunt_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_infernal_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_keepsteel_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_amber_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_slide_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_parasitic_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:foolish_soulcoat_material_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_fangzun_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_cangyao_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_zixu_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_zhenyan_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_goldenhou_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_general_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_magnetic_steel_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_damascene_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_bronze_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_jade_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_talisman_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_type_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_ghost_jade_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_pyrotemper_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_classics_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_cauldron_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_tiger_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_rusted_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_explorer_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_celesterral_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_four_sovereigns_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:epoch_epoch_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:smithing_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:curse_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:time_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:echo_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:exo_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:magnetic_school_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:candy_school_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:cloud_school_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:toxic_school_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:astral_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:traveller_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:hazen_cosmic_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:hazen_radiance_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:hazen_shadow_soul_stone",
+      "required": false
+    },
+    {
+      "id": "wans_minego_expansion:hazen_hydro_soul_stone",
+      "required": false
+    }
+  ]
+}

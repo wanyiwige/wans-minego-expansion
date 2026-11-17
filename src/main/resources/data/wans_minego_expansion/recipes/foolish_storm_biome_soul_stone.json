@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:thunderstone"
+    },
+    "B": {
+      "item": "foolish:electrical_charge"
+    },
+    "C": {
+      "item": "foolish:storm_apple"
+    },
+    "D": {
+      "item": "foolish:thunderstone"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "storm"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_storm_biome_soul_stone"
+  }
+}

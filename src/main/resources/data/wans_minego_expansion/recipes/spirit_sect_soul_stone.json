@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "iss_magicfromtheeast:onmyoji_helmet"
+    },
+    "B": {
+      "item": "iss_magicfromtheeast:onmyoji_chestplate"
+    },
+    "C": {
+      "item": "iss_magicfromtheeast:onmyoji_leggings"
+    },
+    "D": {
+      "item": "iss_magicfromtheeast:onmyoji_boots"
+    },
+    "E": {
+      "tag": "iss_magicfromtheeast:spirit_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:spirit_sect_soul_stone",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iss_magicfromtheeast"
+    }
+  ]
+}

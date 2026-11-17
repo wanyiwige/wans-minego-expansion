@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "astralrail_cube:trailblazer_arcana"
+    },
+    "A": {
+      "item": "astralrail_cube:preservation_helmet"
+    },
+    "B": {
+      "item": "astralrail_cube:preservation_chestplate"
+    },
+    "C": {
+      "item": "astralrail_cube:preservation_leggings"
+    },
+    "D": {
+      "item": "astralrail_cube:preservation_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:trailblazer_arcana_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "astralrail_cube"
+    }
+  ]
+}

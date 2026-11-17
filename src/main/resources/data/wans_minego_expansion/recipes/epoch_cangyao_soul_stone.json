@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:initialmagnet"
+    },
+    {
+      "item": "splendour_ablaze_epoch:magnetic_steel_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:magnetite"
+    },
+    {
+      "item": "splendour_ablaze_epoch:sagesfragments"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_cangyao_soul_stone",
+    "count": 1
+  }
+}

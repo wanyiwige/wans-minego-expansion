@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wans_minego_expansion:epoch_four_sovereigns_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_goldenhou_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_general_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_celesterral_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_explorer_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_complete_proof"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_epoch_soul_stone",
+    "count": 1
+  }
+}

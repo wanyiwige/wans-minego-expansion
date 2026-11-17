@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wans_minego_expansion:foolish_bloom_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_storm_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_time_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_scarlet_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_waste_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_mire_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_growth_biome_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_ash_biome_soul_stone"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:soul_of_otherworld"
+  }
+}

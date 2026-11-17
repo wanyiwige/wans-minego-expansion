@@ -1,0 +1,88 @@
+{
+  "animations": [
+    {
+      "id": "epoch_celesterral_soul_stone",
+      "frames": [
+        "epoch_magnetic_steel_soul_stone",
+        "epoch_damascene_soul_stone",
+        "epoch_jade_soul_stone",
+        "epoch_talisman_soul_stone"
+      ],
+      "frame_count": 4,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        68
+      ],
+      "frametime": 20,
+      "interpolate": true,
+      "sha256": "bb979594761226da56153d12ca80fa636956932518aaa238feb5e7d78983229e",
+      "frames_match_components": true
+    },
+    {
+      "id": "epoch_four_sovereigns_soul_stone",
+      "frames": [
+        "epoch_fangzun_soul_stone",
+        "epoch_cangyao_soul_stone",
+        "epoch_zixu_soul_stone",
+        "epoch_zhenyan_soul_stone"
+      ],
+      "frame_count": 4,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        68
+      ],
+      "frametime": 20,
+      "interpolate": true,
+      "sha256": "a1f34f4e7e9450ce78f6fce2b7eec83888dfeae82a5fd106731bd5fed5ca5d8b",
+      "frames_match_components": true
+    },
+    {
+      "id": "epoch_epoch_soul_stone",
+      "frames": [
+        "epoch_fangzun_soul_stone",
+        "epoch_cangyao_soul_stone",
+        "epoch_zixu_soul_stone",
+        "epoch_zhenyan_soul_stone",
+        "epoch_goldenhou_soul_stone",
+        "epoch_general_soul_stone",
+        "epoch_magnetic_steel_soul_stone",
+        "epoch_damascene_soul_stone",
+        "epoch_jade_soul_stone",
+        "epoch_talisman_soul_stone",
+        "epoch_explorer_soul_stone"
+      ],
+      "frame_count": 11,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        187
+      ],
+      "frametime": 20,
+      "interpolate": true,
+      "sha256": "115c55defea538e176865024a917aee927bc811e68dd8deb27a0713ebfa23af9",
+      "frames_match_components": true
+    }
+  ],
+  "non_stone_ingredients_excluded_from_animation": [
+    "splendour_ablaze_epoch:celes_terral_ingot",
+    "splendour_ablaze_epoch:sagesfragments",
+    "wans_minego_expansion:epoch_complete_proof"
+  ],
+  "source_only": false,
+  "deployed": false,
+  "game_visual_verified": false,
+  "built": true,
+  "version": "0.7.3",
+  "jar_sha256": "b69f978838f72219cb48e96570fecf663217bd497408efc64bd9404441c76079"
+}

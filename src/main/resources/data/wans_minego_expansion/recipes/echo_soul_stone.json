@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "echo_spellbooks:echo_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    "A": {
+      "item": "echo_spellbooks:echo_warden_helmet"
+    },
+    "B": {
+      "item": "echo_spellbooks:echo_warden_chestplate"
+    },
+    "C": {
+      "item": "echo_spellbooks:echo_warden_leggings"
+    },
+    "D": {
+      "item": "echo_spellbooks:echo_warden_boots"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:echo_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "echo_spellbooks"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:echo_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "echo_spellbooks:echo_warden_helmet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "echo_spellbooks:echo_warden_chestplate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "echo_spellbooks:echo_warden_leggings"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "echo_spellbooks:echo_warden_boots"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "echo_spellbooks:echo_focus"
+      }
+    }
+  ]
+}

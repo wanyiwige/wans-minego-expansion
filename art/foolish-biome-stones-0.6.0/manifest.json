@@ -1,0 +1,267 @@
+{
+  "version": "0.6.0",
+  "native_grid": [
+    18,
+    18
+  ],
+  "lighting": "accepted axis and upper-left/right corrections",
+  "legacy_32_hashes": {
+    "abyssal_soul_stone.png": "fe97f5def4a397b8815f7cf70116145bee0fffd3f37c429b30966f71b4b2a7af",
+    "annihilation_soul_stone.png": "0271e48246f42ed838a30d9421780fe4521c5e611fbd9c598ff33ce3c7434230",
+    "ars_nouveau_soul_stone.png": "b825c73df877260f863334a831d1bc4b15689cc1e1ce3a6534c8314617f5d8c2",
+    "dream_soul_stone.png": "e6b900669e427cfba3e4a02d99d0404fb134c353c36e645a7f04820efaa1ef13",
+    "esoteric_soul_stone.png": "e9d8f8ca0465d7c51baa39a25f9eb4b91ab4d0ecc8e168788f0a99ef07fd20c3",
+    "foolish_astralis_soul_stone.png": "c9c3740b3b4d253ad45364a6674bf02b34818963f368b147e622f1335ddfffba",
+    "foolish_pyre_soul_stone.png": "b0b229b3b16af65d2c952b85c633abd280fc6115774674ed42faad3704240253",
+    "foolish_sacilic_abomination_soul_stone.png": "5147f959ec4c43e3dde7386d336a9c90b592c16418db9cd2f0556158f52170b4",
+    "foolish_scarlant_queen_soul_stone.png": "a0f5637ae4132cd8a09fca76941048fab8aedf4498032cccf57fb9ff776eb013",
+    "foolish_terrorflora_soul_stone.png": "3f70f7d8d85b3804df73e955201dd065dd8f6f7f1a7902c6214040bbac180857",
+    "foolish_thrasher_soul_stone.png": "f7f4335885b8b723b18bdf4741ba3e3c3a2d9ae2a29a4c7f83ea65d6c6b21a12",
+    "foolish_thunderbird_soul_stone.png": "eaebd66ab8b26c70a2290e4d9d3b9168c1bb8b92990c0d76f018567ac40e15fd",
+    "foolish_timewelder_soul_stone.png": "b0194cbaa10997c7cbf52f1fc3c9bd02dd2f3151bb316cb59644d6fe97e069bd",
+    "foolish_varmint_king_soul_stone.png": "025b5ccb5c0a0a9292a76746239a2482c689dc375ddf045937c43addc64be415",
+    "foolish_wendigrudge_soul_stone.png": "d7b33738a5f941b1ecdfa51ac73210c42182d33f75f09b9c1fefc3c367905707",
+    "fusion_soul_stone.png": "bb15da1e8165ae7dd6ae88eabd9746d0318804fbc1c75eb4ffd012eae217db6d",
+    "glintstone_soul_stone.png": "be790f679b336f2aaed8b999e84ec02614f0a70a4ce170b0aa29640b28ab084e",
+    "gluttony_soul_stone.png": "4acc80dcf94de89b5698e67b90ba084c757898935d7e2d8e34e89a5f641771b6",
+    "glutton_soul_stone.png": "1916397d87991751c627452acd273fae39a6ae68e9460c99c1139779dfd70cb5",
+    "infinity_soul_stone.png": "8d46ad204f3d736895b79c58aa832a27c126e5252fab0b236d2036f8786d0c93",
+    "insect_soul_stone.png": "4bb12e22bd132c35092f5d4db0fb9cc9e3cd41aa4a712c03bd1545834f856e69",
+    "relicron_soul_stone.png": "f8de1c105095a0760494ae36430e167686d64ef90711099ba8c9b99b8b7124fb",
+    "shadow_soul_stone.png": "73d056dfdc2c45c030a6d7241281829479c57c4619e5366616f59565a031152e",
+    "soul_of_foolish.png": "590320ec19393102c23c3d46a5cfff20bbf19a9d6fd26a419550f21d43adbbf8",
+    "soul_of_stellar_hollow.png": "b8f92ceb4506ba955ac1a69cecbdff08a5010d8feff7149b9771e899671fecb0",
+    "spirit_sect_soul_stone.png": "7b79943916984a1d4adc77091d260e821385104e2b716759572d55ad639d20ab",
+    "symmetry_sect_soul_stone.png": "1db8b697884ddf2678b13c80c9a0aba0a32132626f51fb1743cf084979ace548",
+    "tainted_soul_stone.png": "3f70374f4cffb27d524f19cf1eec28516a5188efaa0ecae9fd6de03ea616dd4c",
+    "technomancy_soul_stone.png": "1a4e0d4fc2a971615a39e113e40cd7334b88b8dac9bf8c74e052a604b1633575",
+    "trailblazer_arcana_soul_stone.png": "87357a17f1b1df824dbac154d4801ad2bddf6ed172317f5da3b9c34fd164a5b5",
+    "unstable_soul_stone.png": "3b4a2031620d6d240a6160b439ce453283e289a9b11134b9da5e49e941f7b372",
+    "wind_soul_stone.png": "9cecb44cce5e5190c01322bf3b5f1c3bd5c250c73d0d481fec3b3377f6fb944b"
+  },
+  "stones": [
+    {
+      "id": "foolish_bloom_biome_soul_stone",
+      "name": "绽晶魂石",
+      "biomes": [
+        "sacilite_bloom",
+        "sacilite_cavern"
+      ],
+      "materials": [
+        "sacilite_shard",
+        "dull_sacilite_shard",
+        "azure_sacilite_lens",
+        "rose_sacilite_lens"
+      ],
+      "glyph": [
+        "...II...",
+        "..OIIO..",
+        ".O.OO.O.",
+        "OOO..OOO",
+        ".OIIIIO.",
+        "..OIIO..",
+        "...OO...",
+        "...OO..."
+      ],
+      "palette": "190e32 342049 51316b 734994 9864b9 b489d0 d5ace7 ebd5f6 fbf2ff",
+      "sha256": "5cc64fe22a7ed04d879f12356211abe5954e465727a7864c37da133842076c40"
+    },
+    {
+      "id": "foolish_storm_biome_soul_stone",
+      "name": "风暴魂石",
+      "biomes": [
+        "storm_jungle"
+      ],
+      "materials": [
+        "thunderstone",
+        "electrical_charge",
+        "storm_apple",
+        "thunderstone"
+      ],
+      "glyph": [
+        "..OOOO..",
+        ".OIIOIO.",
+        "OIIIIIIO",
+        "OOOOOOOO",
+        "...II...",
+        "..II....",
+        "...II...",
+        "..II...."
+      ],
+      "palette": "101c24 203e42 31595b 427677 579391 73b2a8 9ed1c1 c8e8d9 eefaf0",
+      "sha256": "73de022422c334f1dd7f04a36d175afd6804de47f27a04c5c11df75707a80946"
+    },
+    {
+      "id": "foolish_time_biome_soul_stone",
+      "name": "时沙魂石",
+      "biomes": [
+        "sands_of_time"
+      ],
+      "materials": [
+        "chronosand",
+        "warp_amber",
+        "timefruit",
+        "timewood_log"
+      ],
+      "glyph": [
+        "..OOOO..",
+        ".O.II.O.",
+        "O..II..O",
+        "O..I...O",
+        "O..III.O",
+        "O......O",
+        ".O....O.",
+        "..OOOO.."
+      ],
+      "palette": "211727 403040 65504e 8b705d ae9075 c9af94 e0cbb3 f0e4d2 fff7e8",
+      "sha256": "7c4b5f91c6783a323ceff949b1153f8deb10da612fac3232a100e8e152fcf3a0"
+    },
+    {
+      "id": "foolish_scarlet_biome_soul_stone",
+      "name": "猩野魂石",
+      "biomes": [
+        "scarlet_fields"
+      ],
+      "materials": [
+        "scarlet_silt",
+        "egg_membrane",
+        "scarlet_glow_fungus",
+        "scarlant_capsule"
+      ],
+      "glyph": [
+        "...OO...",
+        "..OOOO..",
+        ".OI..IO.",
+        "OIIOOIIO",
+        "OII..IIO",
+        ".OI..IO.",
+        "..OOOO..",
+        "...OO..."
+      ],
+      "palette": "260d1a 49152b 6c2439 94394f b65168 cf758a e6a0b2 f5cbd4 fff0ec",
+      "sha256": "984ec1a671001f5fa12d29ba8f73f2cc685531e63926be1488a3ae5ee3f54c99"
+    },
+    {
+      "id": "foolish_waste_biome_soul_stone",
+      "name": "废土魂石",
+      "biomes": [
+        "wasteland",
+        "irradiated_undergrowth"
+      ],
+      "materials": [
+        "radium",
+        "toxic_waste",
+        "corroded_metal",
+        "waste_soil"
+      ],
+      "glyph": [
+        "O......O",
+        "OO....OO",
+        "OIO..OIO",
+        ".OOOOOO.",
+        "..OIIO..",
+        ".OOOOOO.",
+        "OIO..OIO",
+        "OO....OO"
+      ],
+      "palette": "202016 373820 52542a 707137 8c924b aeb66c cdd49c e7edc4 f7fadd",
+      "sha256": "5f7d7faf872ebc70c701b2950b951d66a30d7e551f45bfe7e4604f30cf296f9f"
+    },
+    {
+      "id": "foolish_mire_biome_soul_stone",
+      "name": "泥沼魂石",
+      "biomes": [
+        "miserable_mire"
+      ],
+      "materials": [
+        "bunyip_fur",
+        "large_lily_pad",
+        "darkenstone",
+        "murken_berry"
+      ],
+      "glyph": [
+        "........",
+        "..OOOO..",
+        ".OIIOOO.",
+        "OIIIOOOO",
+        "OIIIO..O",
+        ".OOOOOO.",
+        "...II...",
+        "...OO..."
+      ],
+      "palette": "111e22 223938 34524b 4b7060 669078 89af93 b1ceae d5e7d0 f1f7e8",
+      "sha256": "deb30bbcbe61b450ad1fff9c63a12c7a9d20169c4de76125a5ae026d8dc4c679"
+    },
+    {
+      "id": "foolish_growth_biome_soul_stone",
+      "name": "繁生魂石",
+      "biomes": [
+        "overgrowth"
+      ],
+      "materials": [
+        "soft_leaf",
+        "sharp_leaf",
+        "pollen_burst",
+        "stem_planks"
+      ],
+      "glyph": [
+        ".....OOO",
+        "....OIIO",
+        "...OIIO.",
+        "..OIIO..",
+        ".OOIO...",
+        "OIOOO...",
+        "OO.OOO..",
+        "...OO..."
+      ],
+      "palette": "142018 293c28 40583a 5b794d 7d9c63 a3bd83 c8dba9 e7efd0 f9fce8",
+      "sha256": "29deb685af840734ecfac81d740e322439d8bb409bab9439198e4bc773929a50"
+    },
+    {
+      "id": "foolish_ash_biome_soul_stone",
+      "name": "灰烬魂石",
+      "biomes": [
+        "ashen_woods",
+        "volcanic_valley",
+        "emberlight_valley"
+      ],
+      "materials": [
+        "ashen_log",
+        "scorchslate",
+        "ashflower",
+        "volcanic_hollowstone_rod"
+      ],
+      "glyph": [
+        "...OO...",
+        "..OIIO..",
+        ".OIIO...",
+        ".OIO..O.",
+        "..OO.OIO",
+        ".....OO.",
+        "OOOOOOOO",
+        ".IIIIII."
+      ],
+      "palette": "211b1d 3c3032 5c4542 80594b a57759 c49d75 dfc29f f1e4cd fff7e6",
+      "sha256": "a02a85aaff5ac8f8f09775e9cc946ca8bb77ed6af04d63c7f250762e55db3449"
+    },
+    {
+      "id": "soul_of_otherworld",
+      "name": "异境之魂",
+      "biomes": [],
+      "materials": [],
+      "glyph": [
+        "...II...",
+        "..O..O..",
+        ".O....O.",
+        "I..OO..I",
+        "I..OO..I",
+        ".O....O.",
+        "..O..O..",
+        "...II..."
+      ],
+      "palette": "16152b 30304c 4c496b 696789 908bab b1aac9 d1cce3 eae6f5 fcf8ff",
+      "sha256": "59189bd2540bf78e9c73ae612df49d6cef605a8aa726cde27f107d571ccec016"
+    }
+  ],
+  "foolish_sha256": "d85a9a4aca626fd35bcc90f04a3df14bec8a1c0e79aabdd30753313ac642b7d7"
+}

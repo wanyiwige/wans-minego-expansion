@@ -1,0 +1,94 @@
+[
+  {
+    "item": "sacilite_shard",
+    "texture": "assets/foolish/textures/item/sacilite-26.png.png"
+  },
+  {
+    "item": "thunderstone",
+    "texture": "assets/foolish/textures/item/thunderlight-2.png_2.png"
+  },
+  {
+    "item": "radium",
+    "texture": "assets/foolish/textures/item/wasteland-3.png_1.png"
+  },
+  {
+    "item": "blunt_metal_ingot",
+    "texture": "assets/foolish/textures/item/foolishnether-26.png.png"
+  },
+  {
+    "item": "infernal_alloy_ingot",
+    "texture": "assets/foolish/textures/item/foolishnether-47.png.png"
+  },
+  {
+    "item": "keepsteel_ingot",
+    "texture": "assets/foolish/textures/item/foolishend-14.png.png"
+  },
+  {
+    "item": "warp_amber",
+    "texture": "assets/foolish/textures/item/sandsoftime-21.png.png"
+  },
+  {
+    "item": "enderskates_boots",
+    "texture": "assets/foolish/textures/item/new_piskel-1.png_19.png"
+  },
+  {
+    "item": "parasitic_stinger",
+    "texture": "assets/foolish/textures/item/ashen_woods-25.png.png"
+  },
+  {
+    "item": "soul_coat_chestplate",
+    "texture": "assets/foolish/textures/item/foolishnether-63.png.png"
+  },
+  {
+    "item": "sacilite_clump",
+    "texture": "assets/foolish/textures/block/saciliteclump.png"
+  },
+  {
+    "item": "storm_apple",
+    "texture": "assets/foolish/textures/item/thunderstone-9.png.png"
+  },
+  {
+    "item": "chronosand",
+    "texture": "assets/foolish/textures/block/sandsoftime-3.png.png"
+  },
+  {
+    "item": "scarlet_silt",
+    "texture": "assets/foolish/textures/block/scarletfields-3.png.png"
+  },
+  {
+    "item": "waste_soil",
+    "texture": "assets/foolish/textures/block/wasteland-1.png.png"
+  },
+  {
+    "item": "large_lily_pad",
+    "texture": "assets/foolish/textures/block/frogpad.png"
+  },
+  {
+    "item": "soft_leaf",
+    "texture": "assets/foolish/textures/item/overgrowth-17.png_1.png"
+  },
+  {
+    "item": "ashen_log",
+    "texture": "assets/foolish/textures/block/foolishwoodtypes-37.png_1.png"
+  },
+  {
+    "item": "soul_coat_chestplate",
+    "texture": "assets/foolish/textures/item/foolishnether-63.png.png"
+  },
+  {
+    "item": "timefruit",
+    "texture": "assets/foolish/textures/item/sandsoftime-16.png_3.png"
+  },
+  {
+    "item": "soulsucker_fur",
+    "texture": "assets/foolish/textures/item/foolishnether-62.png.png"
+  },
+  {
+    "item": "darkenstone",
+    "texture": "assets/foolish/textures/block/darkenstone-1.png.png"
+  },
+  {
+    "item": "pollen_burst",
+    "texture": "assets/foolish/textures/item/new_piskel-1.png_15.png"
+  }
+]

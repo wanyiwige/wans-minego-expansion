@@ -1,0 +1,26 @@
+{
+  "backup": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\backups\\20261010-100430-before-infinity-annihilation-fix",
+  "scroll_source": "legendary_spellbooks-1.20.1+forge-0.4.1.jar:assets/legendary_spellbooks/textures/item/scroll_annihilation.png",
+  "items": [
+    {
+      "file": "annihilation_soul_stone.png",
+      "before_sha256": "178ea983acef125d24f4ac5342042f3f015165a09fbf680f93febc09fc66a2a1",
+      "after_sha256": "0271e48246f42ed838a30d9421780fe4521c5e611fbd9c598ff33ce3c7434230",
+      "after_size": [
+        18,
+        18
+      ],
+      "alpha_unchanged": true
+    },
+    {
+      "file": "infinity_soul_stone.png",
+      "before_sha256": "88e355a0eb185a7aaaa734f3152625823acec926ccf0d48c9cce728e678a0525",
+      "after_sha256": "8d46ad204f3d736895b79c58aa832a27c126e5252fab0b236d2036f8786d0c93",
+      "after_size": [
+        18,
+        18
+      ],
+      "alpha_unchanged": true
+    }
+  ]
+}

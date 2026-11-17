@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "ROR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "alex_caves_spellsbook:hazen_cosmic_rune"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:hazen_cosmic_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:hazen_cosmic_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:hazen_cosmic_rune"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  ]
+}

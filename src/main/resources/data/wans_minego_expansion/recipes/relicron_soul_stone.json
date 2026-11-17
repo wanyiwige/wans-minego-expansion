@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "bielgg_spells:relicron_helmet"
+    },
+    "B": {
+      "item": "bielgg_spells:relicron_chestplate"
+    },
+    "C": {
+      "item": "bielgg_spells:relicron_leggings"
+    },
+    "D": {
+      "item": "bielgg_spells:relicron_boots"
+    },
+    "E": {
+      "tag": "bielgg_spells:relicron_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:relicron_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bielgg_spells"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "eeeabsmobs"
+    }
+  ]
+}

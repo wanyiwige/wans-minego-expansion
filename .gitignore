@@ -1,0 +1,14 @@
+.gradle/
+build/
+run/
+libs/*.jar
+
+# Local dependencies, generated output, backups and logs
+/libs/
+/logs/
+*.log
+*.tmp
+/run-data/
+/audit/
+/backups/
+

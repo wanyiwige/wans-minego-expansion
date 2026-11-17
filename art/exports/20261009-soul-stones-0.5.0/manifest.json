@@ -1,0 +1,263 @@
+{
+  "source_jar": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\mods\\wans_minego_expansion-0.5.0.jar",
+  "source_sha256": "37ac1b4b6bffe56c4bae1c33d2ff3db41bc348c6e4d58e2763534dd2246e2e24",
+  "count": 32,
+  "textures": [
+    {
+      "number": 1,
+      "name": "两仪学派魂石",
+      "id": "wans_minego_expansion:symmetry_sect_soul_stone",
+      "file": "originals/symmetry_sect_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "fa8941fdb2183d860ad0ac3ae9e7f85271ce027f0c9568801dab152865dec32e"
+    },
+    {
+      "number": 2,
+      "name": "魂灵学派魂石",
+      "id": "wans_minego_expansion:spirit_sect_soul_stone",
+      "file": "originals/spirit_sect_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "5f5ce5a26cd6a2d31a25aa4b972d6985f5821948320b4e446348813ea4784e87"
+    },
+    {
+      "number": 3,
+      "name": "虫群学派魂石",
+      "id": "wans_minego_expansion:insect_soul_stone",
+      "file": "originals/insect_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "8a92b2ce37f43c3c40eae06c60202bba060ce40712fd17c16e0f046346bb7c96"
+    },
+    {
+      "number": 4,
+      "name": "梦境学派魂石",
+      "id": "wans_minego_expansion:dream_soul_stone",
+      "file": "originals/dream_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "b53134063b3192416fccef77250255c419b8ff9472899cc792cd1ff266d1fe2e"
+    },
+    {
+      "number": 5,
+      "name": "风学派魂石",
+      "id": "wans_minego_expansion:wind_soul_stone",
+      "file": "originals/wind_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "34d3ebc02d84c016d10c2dceec9fe15cc5ed19b83588845ee70f4ef028ef1f66"
+    },
+    {
+      "number": 6,
+      "name": "湮灭学派魂石",
+      "id": "wans_minego_expansion:annihilation_soul_stone",
+      "file": "originals/annihilation_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "fb4e113c701dfd2f623f6a76b8b96250ba19d19d0584cbf2c2ebcdd8f4597cf4"
+    },
+    {
+      "number": 7,
+      "name": "暗影学派魂石",
+      "id": "wans_minego_expansion:shadow_soul_stone",
+      "file": "originals/shadow_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "255231f853bdb9a06bb1a5e1126cae3bb3ececfb8a25b43e82f725c0e13051f0"
+    },
+    {
+      "number": 8,
+      "name": "失稳学派魂石",
+      "id": "wans_minego_expansion:unstable_soul_stone",
+      "file": "originals/unstable_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "9ac376720a44767f886eb5d36a1591971d239521bb5fd83427438db482bb8af6"
+    },
+    {
+      "number": 9,
+      "name": "遗构学派魂石",
+      "id": "wans_minego_expansion:relicron_soul_stone",
+      "file": "originals/relicron_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "37b89fcb53094c19c69d6e37d0555a322e73fe8c2ab83a68a4aa7d46f9ab504f"
+    },
+    {
+      "number": 10,
+      "name": "无限学派魂石",
+      "id": "wans_minego_expansion:infinity_soul_stone",
+      "file": "originals/infinity_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "f422ecfaccf80a91e77e9ee46837ac486fe0bcfc54c773ad81f12bc2df097a9d"
+    },
+    {
+      "number": 11,
+      "name": "污秽学派魂石",
+      "id": "wans_minego_expansion:tainted_soul_stone",
+      "file": "originals/tainted_soul_stone.png",
+      "size": "1254x1254",
+      "sha256": "fb3f69f4e4e60b5e02d27de0f52516e900269f3545af32bff981996aba2399c6"
+    },
+    {
+      "number": 12,
+      "name": "开拓奥秘学派魂石",
+      "id": "wans_minego_expansion:trailblazer_arcana_soul_stone",
+      "file": "originals/trailblazer_arcana_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "4cf23749c1e8f8b16b074b2b5d4d080d3fc7804b6de4187471a84792a71ff54d"
+    },
+    {
+      "number": 13,
+      "name": "混合学派魂石",
+      "id": "wans_minego_expansion:fusion_soul_stone",
+      "file": "originals/fusion_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "f6413ff23d95354ab6d36cfd9203094642d819f48dce1448eaa5f3f011e3335a"
+    },
+    {
+      "number": 14,
+      "name": "魔艺学派魂石",
+      "id": "wans_minego_expansion:ars_nouveau_soul_stone",
+      "file": "originals/ars_nouveau_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "1cba8cab4aab535873079f56a90f705e03f1cbd650e9e2419062a6b4d837336b"
+    },
+    {
+      "number": 15,
+      "name": "深渊学派魂石",
+      "id": "wans_minego_expansion:abyssal_soul_stone",
+      "file": "originals/abyssal_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "fb54dcd550a723b1759beca4da1d436b289f80f3713d11de38770059c8911026"
+    },
+    {
+      "number": 16,
+      "name": "械术学派魂石",
+      "id": "wans_minego_expansion:technomancy_soul_stone",
+      "file": "originals/technomancy_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "a457f43f239888e69935a5c9adc50d666dae717d6dfd5c94d49491095b04b223"
+    },
+    {
+      "number": 17,
+      "name": "秘法学派魂石",
+      "id": "wans_minego_expansion:esoteric_soul_stone",
+      "file": "originals/esoteric_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "90f5569b0749940e3457403ef1e9670a82ab743a5832558bc49faad0cee8cbe0"
+    },
+    {
+      "number": 18,
+      "name": "饕魔学派魂石",
+      "id": "wans_minego_expansion:gluttony_soul_stone",
+      "file": "originals/gluttony_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "1e78ecaa6eb61b8ab10a6d8badf44f256f34515ebf9bd870c618840f0d24b712"
+    },
+    {
+      "number": 19,
+      "name": "辉石学派魂石",
+      "id": "wans_minego_expansion:glintstone_soul_stone",
+      "file": "originals/glintstone_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "9b2017d5493b9bea4c101d469ff0ed56684ec11f9fe36b0e1b0939807d55469f"
+    },
+    {
+      "number": 20,
+      "name": "大胃王学派魂石",
+      "id": "wans_minego_expansion:glutton_soul_stone",
+      "file": "originals/glutton_soul_stone.png",
+      "size": "1260x1260",
+      "sha256": "a173ba811559fe6a17437dfc9d60d1aa785877d37121a6c884ffbe60fffad6c1"
+    },
+    {
+      "number": 21,
+      "name": "焚堆魂石",
+      "id": "wans_minego_expansion:foolish_pyre_soul_stone",
+      "file": "originals/foolish_pyre_soul_stone.png",
+      "size": "18x18",
+      "sha256": "3b856397d234595ca76a0077b9bbc5aa9b0ca4f56adb6cc771c9dbd543b5c102"
+    },
+    {
+      "number": 22,
+      "name": "时铸者魂石",
+      "id": "wans_minego_expansion:foolish_timewelder_soul_stone",
+      "file": "originals/foolish_timewelder_soul_stone.png",
+      "size": "18x18",
+      "sha256": "f1a4824cf8e678dfa2975b51aa672739bd644c449d93f164d19635a6a3345d30"
+    },
+    {
+      "number": 23,
+      "name": "鞭打者魂石",
+      "id": "wans_minego_expansion:foolish_thrasher_soul_stone",
+      "file": "originals/foolish_thrasher_soul_stone.png",
+      "size": "18x18",
+      "sha256": "83a3a6408abaeb10cc3b04e771b52fe00970eb7913122d58de90ba4a807f453e"
+    },
+    {
+      "number": 24,
+      "name": "紫晶突变体魂石",
+      "id": "wans_minego_expansion:foolish_sacilic_abomination_soul_stone",
+      "file": "originals/foolish_sacilic_abomination_soul_stone.png",
+      "size": "18x18",
+      "sha256": "0eee17196f8a356533e4f7b93b5ee322051281d2f52d099c1b133ac9cbbf93b2"
+    },
+    {
+      "number": 25,
+      "name": "害兽王魂石",
+      "id": "wans_minego_expansion:foolish_varmint_king_soul_stone",
+      "file": "originals/foolish_varmint_king_soul_stone.png",
+      "size": "18x18",
+      "sha256": "ccd76c668c14bacd8a6b6222e1ef666c32ee55082b5cc40cc5f322b1325ace89"
+    },
+    {
+      "number": 26,
+      "name": "雷鸟魂石",
+      "id": "wans_minego_expansion:foolish_thunderbird_soul_stone",
+      "file": "originals/foolish_thunderbird_soul_stone.png",
+      "size": "18x18",
+      "sha256": "c8bbef044d9cdd37d12fc863d488bdfcec4a7ab3b9d9f9f290e8083f3ddbb7d7"
+    },
+    {
+      "number": 27,
+      "name": "猩红女王魂石",
+      "id": "wans_minego_expansion:foolish_scarlant_queen_soul_stone",
+      "file": "originals/foolish_scarlant_queen_soul_stone.png",
+      "size": "18x18",
+      "sha256": "5651e17e14a4925f8690db6a7503e8451c5070e1be750c3f762d84901d45576b"
+    },
+    {
+      "number": 28,
+      "name": "怖蕈魂石",
+      "id": "wans_minego_expansion:foolish_terrorflora_soul_stone",
+      "file": "originals/foolish_terrorflora_soul_stone.png",
+      "size": "18x18",
+      "sha256": "91d348442f6ac0997c6ab8e575d3958447caa841362ce35c45b1c64e3e0bd6fc"
+    },
+    {
+      "number": 29,
+      "name": "怀恨巨灵魂石",
+      "id": "wans_minego_expansion:foolish_wendigrudge_soul_stone",
+      "file": "originals/foolish_wendigrudge_soul_stone.png",
+      "size": "18x18",
+      "sha256": "e3a718f725fd2bc9332e3115d3d8db28eac6059cfedb0d0def2f599443eae6b1"
+    },
+    {
+      "number": 30,
+      "name": "阿斯塔瑞斯·堕落之星魂石",
+      "id": "wans_minego_expansion:foolish_astralis_soul_stone",
+      "file": "originals/foolish_astralis_soul_stone.png",
+      "size": "18x18",
+      "sha256": "02dd7999c522410cfab87171e04a3df4131cbfa36ca4831ea3f1e083825e92c1"
+    },
+    {
+      "number": 31,
+      "name": "星渊之魂",
+      "id": "wans_minego_expansion:soul_of_stellar_hollow",
+      "file": "originals/soul_of_stellar_hollow.png",
+      "size": "18x18",
+      "sha256": "2ba1abbe6cb7daf25e4644fb3aacc9a5ee248a2ed6c0d93eecf72b33be0e954f"
+    },
+    {
+      "number": 32,
+      "name": "Foolish之魂",
+      "id": "wans_minego_expansion:soul_of_foolish",
+      "file": "originals/soul_of_foolish.png",
+      "size": "18x18",
+      "sha256": "dab098ff97e9242075a367840076947dba32b554e533b943a0af48ca813db3e3"
+    }
+  ]
+}

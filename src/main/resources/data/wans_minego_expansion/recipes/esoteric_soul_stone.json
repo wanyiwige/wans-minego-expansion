@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "irons_spellbooks:esoteric_focus"
+    },
+    "A": {
+      "item": "esoteric_spell:esoteric_mage_helmet"
+    },
+    "B": {
+      "item": "esoteric_spell:esoteric_mage_chestplate"
+    },
+    "C": {
+      "item": "esoteric_spell:esoteric_mage_leggings"
+    },
+    "D": {
+      "item": "esoteric_spell:esoteric_mage_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:esoteric_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "esoteric_spell"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ]
+}

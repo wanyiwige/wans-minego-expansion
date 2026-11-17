@@ -1,0 +1,357 @@
+{
+  "backup": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\backups\\20261009-200417-before-axis-lighting-fix",
+  "items": [
+    {
+      "file": "abyssal_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "fb54dcd550a723b1759beca4da1d436b289f80f3713d11de38770059c8911026",
+      "after_sha256": "e06089462c7abc738f8ed17472855dd55850fab8a5d92602aa391b268e46a7ea",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "annihilation_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "fb4e113c701dfd2f623f6a76b8b96250ba19d19d0584cbf2c2ebcdd8f4597cf4",
+      "after_sha256": "9b6619ee77d42cc956f1ad698dbf01b87cbee9563ddc86ac9d2c3abc081e44f4",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "ars_nouveau_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "1cba8cab4aab535873079f56a90f705e03f1cbd650e9e2419062a6b4d837336b",
+      "after_sha256": "3b65316d488d9d5ea94fafc7d0c641e40b039673d33f865f24bf6dd64c1aa14a",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "dream_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "b53134063b3192416fccef77250255c419b8ff9472899cc792cd1ff266d1fe2e",
+      "after_sha256": "c9c50ce4f213a03f7039244020cb168dfd33f1281baa3959d525c638eb2a646a",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "esoteric_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "90f5569b0749940e3457403ef1e9670a82ab743a5832558bc49faad0cee8cbe0",
+      "after_sha256": "24b6c4bf2ab0042d0d1a6bcd5f4ef694ccc1fc722907bbe229dc4378a84431a4",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_astralis_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "02dd7999c522410cfab87171e04a3df4131cbfa36ca4831ea3f1e083825e92c1",
+      "after_sha256": "5d217502d533a3fcd3e8ba778f5d5ecca436e80cbe0a1860454a4757a3c68819",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_pyre_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "3b856397d234595ca76a0077b9bbc5aa9b0ca4f56adb6cc771c9dbd543b5c102",
+      "after_sha256": "2ff0659fb8191e657ec6e90838955904b6f6bc53489f3dbcfce18573ce9ff860",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_sacilic_abomination_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "0eee17196f8a356533e4f7b93b5ee322051281d2f52d099c1b133ac9cbbf93b2",
+      "after_sha256": "463572ff3abb6ebb7b1ff177afccbba0b9cc170b44e62d401e2ee8802a0f8365",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_scarlant_queen_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "5651e17e14a4925f8690db6a7503e8451c5070e1be750c3f762d84901d45576b",
+      "after_sha256": "b78776868cd2df713d8da4fd8f668d0c6b8a5e18b0f93ac7195f397c1f019eef",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_terrorflora_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "91d348442f6ac0997c6ab8e575d3958447caa841362ce35c45b1c64e3e0bd6fc",
+      "after_sha256": "d5cb42c0fa32ed70f38e1318fda40571b9477ae69aeaa30ddd8c514524714bc0",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_thrasher_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "83a3a6408abaeb10cc3b04e771b52fe00970eb7913122d58de90ba4a807f453e",
+      "after_sha256": "65a3c97d4f3fa3d7a4a61fdfc1a0a9ebab333d0219f231becb855dae1880f4e3",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_thunderbird_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "c8bbef044d9cdd37d12fc863d488bdfcec4a7ab3b9d9f9f290e8083f3ddbb7d7",
+      "after_sha256": "b8a8970a32007344e91f01fba1a4fb9e9f759407ee1de53335f013f5cb4b0ed1",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_timewelder_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "f1a4824cf8e678dfa2975b51aa672739bd644c449d93f164d19635a6a3345d30",
+      "after_sha256": "8b3834adb90d1109b397efe271a331cc213428e80a5c441f4e8b41e7b5e9e001",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_varmint_king_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "ccd76c668c14bacd8a6b6222e1ef666c32ee55082b5cc40cc5f322b1325ace89",
+      "after_sha256": "e73c573bed862ee5405a765d480815f524be6ba6915ff65974883d7cb71ed392",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "foolish_wendigrudge_soul_stone.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "e3a718f725fd2bc9332e3115d3d8db28eac6059cfedb0d0def2f599443eae6b1",
+      "after_sha256": "2a1bb280c7a18692d861b1825f6275a85671fe02c4bceb12f00cda25042b0058",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "fusion_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "f6413ff23d95354ab6d36cfd9203094642d819f48dce1448eaa5f3f011e3335a",
+      "after_sha256": "db45c59b012734fec47b7b5f0c06eefdf714fbb2ed1daf3f08e0f4ae0f2377b3",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "glintstone_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "9b2017d5493b9bea4c101d469ff0ed56684ec11f9fe36b0e1b0939807d55469f",
+      "after_sha256": "d5c739420930af98fcc44d940e192aecf56a8759c85a697e46a436f0e0726f18",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "glutton_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "a173ba811559fe6a17437dfc9d60d1aa785877d37121a6c884ffbe60fffad6c1",
+      "after_sha256": "72cf6edcaa584cfb18a8b012705d896bdc7e3b901f52560d64bf4c11e80aafec",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "gluttony_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "1e78ecaa6eb61b8ab10a6d8badf44f256f34515ebf9bd870c618840f0d24b712",
+      "after_sha256": "9e7d1f3d20a2a45f585f9543ac9e7ddce6fc4fc1c12498e430d6421758ab1853",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "infinity_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "f422ecfaccf80a91e77e9ee46837ac486fe0bcfc54c773ad81f12bc2df097a9d",
+      "after_sha256": "31832502f507216fe4cb58cdba69c4a8f5eb0e0fa258e5cfeb13eb06453c1560",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "insect_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "8a92b2ce37f43c3c40eae06c60202bba060ce40712fd17c16e0f046346bb7c96",
+      "after_sha256": "bbcf7343b78272168be420c391c6cb1ee5df52ea5ad2b920fde603386ebf5094",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "relicron_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "37b89fcb53094c19c69d6e37d0555a322e73fe8c2ab83a68a4aa7d46f9ab504f",
+      "after_sha256": "b4fa253bdc2d4625a97ea0f323c189a7f1b7e3b7e81eeb059e27d8b623ed5723",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "shadow_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "255231f853bdb9a06bb1a5e1126cae3bb3ececfb8a25b43e82f725c0e13051f0",
+      "after_sha256": "e79944565ef4aff9e5d41f7c3236a29ef1b807970f611d6d21285995f4e11735",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "soul_of_foolish.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "dab098ff97e9242075a367840076947dba32b554e533b943a0af48ca813db3e3",
+      "after_sha256": "b16175ebe845eb942763b4fe854c6c5ca13d3159f32e66954c69293f679ec2e1",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "soul_of_stellar_hollow.png",
+      "size": [
+        18,
+        18
+      ],
+      "before_sha256": "2ba1abbe6cb7daf25e4644fb3aacc9a5ee248a2ed6c0d93eecf72b33be0e954f",
+      "after_sha256": "38fcd8df487ddaf2e066f86ff99f1f443cc388e335265a206fcace306ff805b9",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "spirit_sect_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "5f5ce5a26cd6a2d31a25aa4b972d6985f5821948320b4e446348813ea4784e87",
+      "after_sha256": "de42f2e0151d17b934383578c0a5ee9f723dd92799719e5871acdad7521d365f",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "symmetry_sect_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "fa8941fdb2183d860ad0ac3ae9e7f85271ce027f0c9568801dab152865dec32e",
+      "after_sha256": "4e553be383269dce152fb6a0114d690d58f0a64db4d46e2986c7528fa47a0ca5",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "tainted_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "fb3f69f4e4e60b5e02d27de0f52516e900269f3545af32bff981996aba2399c6",
+      "after_sha256": "fd6d63153604df2c925955ee41d0e49e899131fa906928fd33f9b2c2617a3ebf",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "technomancy_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "a457f43f239888e69935a5c9adc50d666dae717d6dfd5c94d49491095b04b223",
+      "after_sha256": "a2e6a5fcc5fc7c67732af01e4030aa25e4da48d46bfe764990e1dfd8ed567388",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "trailblazer_arcana_soul_stone.png",
+      "size": [
+        1260,
+        1260
+      ],
+      "before_sha256": "4cf23749c1e8f8b16b074b2b5d4d080d3fc7804b6de4187471a84792a71ff54d",
+      "after_sha256": "22e9e9c671ae327ddd0127a8c5fd9a02ba05ec70a1e8a8d2eacd0059b65f7b6e",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "unstable_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "9ac376720a44767f886eb5d36a1591971d239521bb5fd83427438db482bb8af6",
+      "after_sha256": "da23e5109cad3d8526d0074cfff827d827039f1653ab31a083ec6469b40da8c4",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    },
+    {
+      "file": "wind_soul_stone.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "before_sha256": "34d3ebc02d84c016d10c2dceec9fe15cc5ed19b83588845ee70f4ef028ef1f66",
+      "after_sha256": "146cddd36d8e69c7a494201b81ad920f32da0cb9915932200cfb487d67222dd9",
+      "alpha_preserved": true,
+      "glyph_preserved": true
+    }
+  ]
+}

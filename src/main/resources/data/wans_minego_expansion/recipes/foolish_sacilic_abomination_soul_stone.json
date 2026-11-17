@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:sacilic_heart"
+    },
+    "B": {
+      "item": "foolish:sacilite_hammer"
+    },
+    "C": {
+      "item": "foolish:shining_sacilite_lens"
+    },
+    "D": {
+      "item": "foolish:sacilic_heart"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_sacilic_abomination_soul_stone"
+  }
+}

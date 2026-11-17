@@ -1,0 +1,254 @@
+{
+  "size": [
+    17,
+    17
+  ],
+  "renderer": "epoch_reference_stone.render_reference",
+  "reference": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\art\\epoch-whole-stone-redraw-20261012\\empty-soul-stone-native.png",
+  "silhouette": "exact empty soul stone alpha and perspective",
+  "legacy_textures_unchanged": 56,
+  "stones": [
+    {
+      "id": "epoch_fangzun_soul_stone",
+      "name": "玄印方尊魂石",
+      "theme": "棕铜雕纹柱体、冠饰与底部卷曲构件",
+      "mode": "柱体雕纹",
+      "sha256": "8b5b5a832959a00d60f59646145be7ab4670c86bbafeb6ddc8d49d8e6c4b785f",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_cangyao_soul_stone",
+      "name": "苍尧星魂石",
+      "theme": "灰黑金属环、交错杆件与机械轴心",
+      "mode": "环架结构",
+      "sha256": "0fc07ca7a1509c626837b46a45869854e5c8fbfe2d941f4d011f106d92b5392d",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_zixu_soul_stone",
+      "name": "子虚仙君魂石",
+      "theme": "米白卷面、深靛蓝卷曲结构与金色末端",
+      "mode": "卷面包覆",
+      "sha256": "d5a85155c1bdd7a0cea5c560d5105038182351e8bc809036616de41549b66e35",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_zhenyan_soul_stone",
+      "name": "震焰统帅魂石",
+      "theme": "暗红褐机体、灰铁炮管与背部旗列",
+      "mode": "机体结构",
+      "sha256": "3fb1a4e88d339fd73b0c8dfe76f4f927f489ca51b13974e77ec7db8b5222ac1e",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_goldenhou_soul_stone",
+      "name": "金毛犼魂石",
+      "theme": "紫金铃火：金壳、紫玉内腔与朱绳",
+      "mode": "结构型",
+      "sha256": "6df0d389470c03136221e28313019a6bbfbde554ff06c0c5da204bc89e811dec",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_general_soul_stone",
+      "name": "陶俑将军魂石",
+      "theme": "陶俑军令：赤旗斜覆青铜陶石",
+      "mode": "包覆型",
+      "sha256": "ad150bf286172dee06f4c4ae2b16c2eb4e50fe5989e95b4c180f9f26dcdcdc9d",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_magnetic_steel_soul_stone",
+      "name": "磁钢魂石",
+      "theme": "磁钢晶片：整块冷蓝分层金属",
+      "mode": "材质型",
+      "sha256": "ac6e33bcee040a47865d8780a09aa3eef7bd5b0a2126940c44fb16cf425843eb",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_damascene_soul_stone",
+      "name": "龙镔魂石",
+      "theme": "龙镔钢：暗钢中的银色流动锻纹",
+      "mode": "材质型",
+      "sha256": "7430afe2d6f9cefb2318a7973162c76e8297b4bd34d29df9d657ba1e7829845d",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_bronze_soul_stone",
+      "name": "青铜魂石",
+      "theme": "青铜铸甲：铸造接缝与青绿铜锈",
+      "mode": "材质型",
+      "sha256": "4b8a123f0c021e863fa36d1afe6eca0538e106713bd1862f400b7c146b24d475",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_jade_soul_stone",
+      "name": "玉璧魂石",
+      "theme": "玉璧：通透绿玉与真实环状暗孔",
+      "mode": "材质型",
+      "sha256": "845d12dcf4710dc5c4fcb4eb314945fadbe92245ec5171c97dbcc4b83cb6e4f5",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_talisman_soul_stone",
+      "name": "朱砂符箓魂石",
+      "theme": "朱砂符纸：暖纸斜包本体与朱砂笔势",
+      "mode": "包覆型",
+      "sha256": "97d1b0ccf7359e3ab3c394786718d2b95caf164843d2990f4766438db2cb54f7",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_type_soul_stone",
+      "name": "活字魂石",
+      "theme": "六字印版：六块阴刻活字拼装",
+      "mode": "结构型",
+      "sha256": "90268a6cf03e85703c1366a50f25fa3a827a0df09bf20be57ac1650cf28b7304",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_ghost_jade_soul_stone",
+      "name": "幽灵玉魂石",
+      "theme": "幽玉佩：月弧玉环与红色悬绳",
+      "mode": "镶嵌型",
+      "sha256": "e8b319318f9c5ba6f2f1c2d3d4ab5bc5bf61db4862b6c22f704d6c4d20ca2f5a",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_pyrotemper_soul_stone",
+      "name": "燧炼魂石",
+      "theme": "燧炼熔石：红黑结壳与贯穿熔缝",
+      "mode": "材质型",
+      "sha256": "40f8b9c00a96a737e93b5e116c05e2b49709ef22a224ab5864a524acc15c92fa",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_classics_soul_stone",
+      "name": "典籍魂石",
+      "theme": "典籍：紫色封皮、纸页与金色书扣",
+      "mode": "包覆型",
+      "sha256": "0c178e66df57b3d3818463ce32d0d714e6dacf3883d8146dbdb80e9a6aeff8b5",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_cauldron_soul_stone",
+      "name": "鼎兽魂石",
+      "theme": "双耳鼎：青铜耳柄与鼎足参与本体",
+      "mode": "结构型",
+      "sha256": "c492cd7a2f40eada67d34e42eed68b60f7655471a680501c379106c6fd7a3874",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_tiger_soul_stone",
+      "name": "炮虎卫魂石",
+      "theme": "炮虎卫：陶虎斜纹中嵌入冷铁炮口",
+      "mode": "镶嵌型",
+      "sha256": "3049f8abbab085b0737f1878b8989fec79398151834b916ef421a6ff4215b6dd",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_rusted_soul_stone",
+      "name": "镀锈先民魂石",
+      "theme": "镀锈先民：斑驳锈铜与氧化裂隙",
+      "mode": "材质型",
+      "sha256": "d0fe3f3a39f3c16355d6b9a819f07160f2a01eb04ac6c89fe0ec17c0e992635b",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_explorer_soul_stone",
+      "name": "顶世界探索魂石",
+      "theme": "四域探索：玉镜、桑牧、鹤浪与狼烟",
+      "mode": "图景型",
+      "sha256": "fb638c587d113357a16d6230b5c40d093ad14f7ed99581b953b4e7720463b37c",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_celesterral_soul_stone",
+      "name": "玄黄魂石",
+      "theme": "玄黄：上部银蓝与下部金土合铸",
+      "mode": "分区型",
+      "sha256": "c0bb9f8e9c44eed83865c0192ecb26402b8b6517185f4f1d3c33054fe302e31a",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_four_sovereigns_soul_stone",
+      "name": "四尊之魂",
+      "theme": "四尊：青铜、苍蓝、玉墨和火铳四区",
+      "mode": "镶嵌型",
+      "sha256": "16df88349c94f05f4b8ece6ff8dd956099d0750b92867ad4d716506531e4e980",
+      "native_grid": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "epoch_epoch_soul_stone",
+      "name": "棠煌之魂",
+      "theme": "棠煌：棠花瓣状粉晶与金绿玉座",
+      "mode": "晶体型",
+      "sha256": "069b6392077ed6cda91580f3acb50062343e65ed971eb913da13178e71f899b8",
+      "native_grid": [
+        17,
+        17
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "alex_caves_spellsbook:candy_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    "A": {
+      "item": "alex_caves_spellsbook:candy_wizard_hat"
+    },
+    "B": {
+      "item": "alex_caves_spellsbook:candy_wizard_robe"
+    },
+    "C": {
+      "item": "alex_caves_spellsbook:candy_wizard_leggings"
+    },
+    "D": {
+      "item": "alex_caves_spellsbook:candy_wizard_boots"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:candy_school_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:candy_school_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:candy_wizard_hat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:candy_wizard_robe"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:candy_wizard_leggings"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:candy_wizard_boots"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "alex_caves_spellsbook:candy_focus"
+      }
+    }
+  ]
+}

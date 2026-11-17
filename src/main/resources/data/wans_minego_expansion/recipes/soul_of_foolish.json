@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wans_minego_expansion:soul_of_stellar_hollow"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_astralis_soul_stone"
+    },
+    {
+      "item": "foolish:stellar_catalyst"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:soul_of_foolish"
+  }
+}

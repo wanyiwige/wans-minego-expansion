@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "cursespells:curse_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    "A": {
+      "item": "cursespells:transcendent_helmet"
+    },
+    "B": {
+      "item": "cursespells:transcendent_chestplate"
+    },
+    "C": {
+      "item": "cursespells:transcendent_leggings"
+    },
+    "D": {
+      "item": "cursespells:transcendent_boots"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:curse_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cursespells"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:curse_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cursespells:transcendent_helmet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cursespells:transcendent_chestplate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cursespells:transcendent_leggings"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "cursespells:transcendent_boots"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "cursespells:curse_focus"
+      }
+    }
+  ]
+}

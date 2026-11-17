@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:tigertally"
+    },
+    {
+      "item": "splendour_ablaze_epoch:commandflag"
+    },
+    {
+      "item": "splendour_ablaze_epoch:dagger"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_general_soul_stone",
+    "count": 1
+  }
+}

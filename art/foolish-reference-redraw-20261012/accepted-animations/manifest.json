@@ -1,0 +1,103 @@
+{
+  "status": "accepted source",
+  "static_stones": 28,
+  "animated_composites": 3,
+  "accepted_stones": 31,
+  "source_png_changes": 31,
+  "new_mcmeta": 3,
+  "active_jar_unchanged": true,
+  "non_stone_ingredients_excluded_from_animation": [
+    "foolish:stellar_catalyst"
+  ],
+  "animations": [
+    {
+      "id": "soul_of_stellar_hollow",
+      "frames": [
+        "foolish_pyre_soul_stone",
+        "foolish_timewelder_soul_stone",
+        "foolish_thrasher_soul_stone",
+        "foolish_sacilic_abomination_soul_stone",
+        "foolish_varmint_king_soul_stone",
+        "foolish_thunderbird_soul_stone",
+        "foolish_scarlant_queen_soul_stone",
+        "foolish_terrorflora_soul_stone",
+        "foolish_wendigrudge_soul_stone"
+      ],
+      "frame_count": 9,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        153
+      ],
+      "ticks_per_frame": 20,
+      "interpolate": true,
+      "loop_seconds": 9,
+      "png_sha256": "0928c9f804336ad47648cb06686b01c4bdc5916fafb8f36e3224bbfa380df88f",
+      "frame_pixels_exact": true
+    },
+    {
+      "id": "soul_of_foolish",
+      "frames": [
+        "foolish_pyre_soul_stone",
+        "foolish_timewelder_soul_stone",
+        "foolish_thrasher_soul_stone",
+        "foolish_sacilic_abomination_soul_stone",
+        "foolish_varmint_king_soul_stone",
+        "foolish_thunderbird_soul_stone",
+        "foolish_scarlant_queen_soul_stone",
+        "foolish_terrorflora_soul_stone",
+        "foolish_wendigrudge_soul_stone",
+        "foolish_astralis_soul_stone"
+      ],
+      "frame_count": 10,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        170
+      ],
+      "ticks_per_frame": 20,
+      "interpolate": true,
+      "loop_seconds": 10,
+      "png_sha256": "195f40081a9ab4581217af866c860672df5681acbb5c5ef1269a280c84b0669d",
+      "frame_pixels_exact": true
+    },
+    {
+      "id": "soul_of_otherworld",
+      "frames": [
+        "foolish_bloom_biome_soul_stone",
+        "foolish_storm_biome_soul_stone",
+        "foolish_time_biome_soul_stone",
+        "foolish_scarlet_biome_soul_stone",
+        "foolish_waste_biome_soul_stone",
+        "foolish_mire_biome_soul_stone",
+        "foolish_growth_biome_soul_stone",
+        "foolish_ash_biome_soul_stone"
+      ],
+      "frame_count": 8,
+      "frame_size": [
+        17,
+        17
+      ],
+      "strip_size": [
+        17,
+        136
+      ],
+      "ticks_per_frame": 20,
+      "interpolate": true,
+      "loop_seconds": 8,
+      "png_sha256": "d1115599fcb6bf622dd1894a6c5ce433da8725c8473f85db8a96899d42c77f4b",
+      "frame_pixels_exact": true
+    }
+  ],
+  "built": true,
+  "deployed": false,
+  "game_visual_verified": false,
+  "release_version": "0.7.2",
+  "release_sha256": "f9674dac978c4e23c6eb7ac92d13f3f58f03b7ac63b2e895775aeb2ccea55f5d"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "alex_caves_spellsbook:hazen/cosmic_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    "A": {
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_helmet"
+    },
+    "B": {
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_chestplate"
+    },
+    "C": {
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_leggings"
+    },
+    "D": {
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_boots"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:hazen_cosmic_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:hazen_cosmic_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_helmet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_chestplate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_leggings"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:hazen_cosmic_scholar_boots"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "alex_caves_spellsbook:hazen/cosmic_focus"
+      }
+    }
+  ]
+}

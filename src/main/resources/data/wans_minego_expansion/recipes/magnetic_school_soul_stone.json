@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "alex_caves_spellsbook:magnetic_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    "A": {
+      "item": "alex_caves_spellsbook:magnetic_mage_helmet"
+    },
+    "B": {
+      "item": "alex_caves_spellsbook:magnetic_mage_chestplate"
+    },
+    "C": {
+      "item": "alex_caves_spellsbook:magnetic_mage_leggings"
+    },
+    "D": {
+      "item": "alex_caves_spellsbook:magnetic_mage_boots"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:magnetic_school_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:magnetic_school_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:magnetic_mage_helmet"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:magnetic_mage_chestplate"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:magnetic_mage_leggings"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alex_caves_spellsbook:magnetic_mage_boots"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "alex_caves_spellsbook:magnetic_focus"
+      }
+    }
+  ]
+}

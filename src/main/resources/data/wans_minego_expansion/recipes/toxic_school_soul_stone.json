@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ERE",
+    "ROR",
+    "ERE"
+  ],
+  "key": {
+    "E": {
+      "tag": "alex_caves_spellsbook:toxic_focus"
+    },
+    "R": {
+      "item": "alexscaves:uranium"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:toxic_school_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:toxic_school_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "alexscaves:uranium"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "alex_caves_spellsbook:toxic_focus"
+      }
+    }
+  ]
+}

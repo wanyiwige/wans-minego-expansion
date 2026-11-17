@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wans_minego_expansion:epoch_fangzun_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_cangyao_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_zixu_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_zhenyan_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:sagesfragments"
+    },
+    {
+      "item": "splendour_ablaze_epoch:celes_terral_ingot"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_four_sovereigns_soul_stone",
+    "count": 1
+  }
+}

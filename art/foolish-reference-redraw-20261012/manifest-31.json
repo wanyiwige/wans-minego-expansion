@@ -1,0 +1,388 @@
+{
+  "status": "trial only",
+  "count": 31,
+  "boss_and_composite_count": 12,
+  "material_count": 10,
+  "biome_and_otherworld_count": 9,
+  "reference": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\art\\epoch-whole-stone-redraw-20261012\\empty-soul-stone-native.png",
+  "reference_jar": "mods/foolish-1.3.0 patched.jar",
+  "official_assets_unchanged": 170,
+  "previous_boss_trials_unchanged": true,
+  "active_jar_unchanged": true,
+  "built": false,
+  "deployed": false,
+  "items": [
+    {
+      "id": "foolish_pyre_soul_stone",
+      "name": "焚堆魂石",
+      "theme": "赤红熔躯、狮口与浅骨腭",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "ec8a4aa145ae380c45d66fb082abdb5096595e9cdc106a93432eff27c73c3857"
+    },
+    {
+      "id": "foolish_timewelder_soul_stone",
+      "name": "时铸者魂石",
+      "theme": "浅蓝紫躯体与内嵌金色时钟",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "7b2715f447564da8c4551cdf19d837dc729fa54613b8691db899432fe32d50dc"
+    },
+    {
+      "id": "foolish_thrasher_soul_stone",
+      "name": "鞭打者魂石",
+      "theme": "绿皮鱼兽、青色鳍与钩状下颌",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "4d17685e1270e3189115800858cc88100f313d95176ca28673998b2e6f6b4a99"
+    },
+    {
+      "id": "foolish_sacilic_abomination_soul_stone",
+      "name": "紫晶突变体魂石",
+      "theme": "深紫晶体、裂口与青色萦光",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "2b4e52b8bbc4946291ac76379f9aba1a893db032c24916ce51495f89a24332fe"
+    },
+    {
+      "id": "foolish_varmint_king_soul_stone",
+      "name": "害兽王魂石",
+      "theme": "灰绿鼠兽、浅骨口部与毒绿侵染",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "09bb5a92d23ce69d6e1edcf8e5b4562f54c593535f7a95660b97a3c551ff7bc8"
+    },
+    {
+      "id": "foolish_thunderbird_soul_stone",
+      "name": "雷鸟魂石",
+      "theme": "青黑羽面、金喙与眼部电光",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "a192ae95e1b48892f55074a4a44479a5832e3070f8408e368f87be3985764b28"
+    },
+    {
+      "id": "foolish_scarlant_queen_soul_stone",
+      "name": "猩红女王魂石",
+      "theme": "猩红甲壳、暗色颚与侧肢",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "12054aeaec09ea270e80d8182c3f8afdd308fa4193aa4d6915006b52b2f31196"
+    },
+    {
+      "id": "foolish_terrorflora_soul_stone",
+      "name": "怖蕈魂石",
+      "theme": "绿叶本体、粉红花瓣与橙色口部",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "2cc32e0953a13165efad3ccccc378ba7fdcac73022b9bdd160859295a4eb1694"
+    },
+    {
+      "id": "foolish_wendigrudge_soul_stone",
+      "name": "怀恨巨灵魂石",
+      "theme": "暗红褐肉躯、骨色颅腭与翼侧",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "e5a7ea4670b344deb14e51e9ba46b05933b30a0b093aaf727f6543f991cb89c7"
+    },
+    {
+      "id": "foolish_astralis_soul_stone",
+      "name": "阿斯塔瑞斯·堕落之星魂石",
+      "theme": "紫粉躯体、金色星芒与白金刃",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "ad81295dd725fb70c78b156d103916fd40a4fe80a3be5f658601eb46f88eae30"
+    },
+    {
+      "id": "soul_of_stellar_hollow",
+      "name": "星渊之魂",
+      "theme": "多种 Boss 材质环绕星刃核心",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "9368911fbbf3f7b74ce135bcc2086df5b95f6ebd920edd6b7ea953aca4641cfd"
+    },
+    {
+      "id": "soul_of_foolish",
+      "name": "Foolish之魂",
+      "theme": "熔红、青羽、紫晶与猩甲合铸",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "a932da5e96cd4929165f77b2ff5c47f511e48391a5eb039dac5df0cfb2f71546"
+    },
+    {
+      "id": "foolish_sacilite_material_soul_stone",
+      "name": "萦光魂石",
+      "theme": "紫色萦光晶面与青光折射",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "17dc1bfb49fed9a27d0342bd50efe4c042bb4404d596a24f1acb7bf924896ff6"
+    },
+    {
+      "id": "foolish_thunderstone_material_soul_stone",
+      "name": "雷石魂石",
+      "theme": "青绿雷石与浅青导电脉",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "1162af51b78d2e7bc126093d037b76bcb3d380bc1a4c013555e8193807b9d63e"
+    },
+    {
+      "id": "foolish_corrosive_material_soul_stone",
+      "name": "腐蚀魂石",
+      "theme": "灰褐金属上侵蚀的黄绿镭质",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "66809125a0ef3185b07d358c810e77dbec33f5d64cd5b2f72ea9ed782f711aa2"
+    },
+    {
+      "id": "foolish_blunt_material_soul_stone",
+      "name": "钝金属魂石",
+      "theme": "钝灰褐金属与磨损层面",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "208f72e0b3432c8a59086a19a29599a39ca2631e47481f964a99192dd0b65f39"
+    },
+    {
+      "id": "foolish_infernal_material_soul_stone",
+      "name": "炽合金魂石",
+      "theme": "灰褐合金、熔铸孔隙与少量余热",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "5629bc4d6ffb24d171be4998f1a6f38a5ec272431e6b14ad670715d227c6dbc1"
+    },
+    {
+      "id": "foolish_keepsteel_material_soul_stone",
+      "name": "固钢魂石",
+      "theme": "深紫固钢的交叠铸层",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "13343532813ef1da2694fe88788894e19f431b77e05e7927eeab7365d785fcf7"
+    },
+    {
+      "id": "foolish_amber_material_soul_stone",
+      "name": "琥珀魂石",
+      "theme": "蓝色琥珀与封存的青光旋涡",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "ba75f76bdf00e7c3daf0190ba102a7918aee73afafcb5114881adf30a6106a52"
+    },
+    {
+      "id": "foolish_slide_material_soul_stone",
+      "name": "滑行魂石",
+      "theme": "紫色滑行材料与斜向胎纹",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "93f376592dfc1beb0ef0371b8e5dca3955d444cfcb1c9dd93bf3eecd90450e9d"
+    },
+    {
+      "id": "foolish_parasitic_material_soul_stone",
+      "name": "寄生魂石",
+      "theme": "暗褐本体上的红色刺脊",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "04ec30447829f1c920ce800647476d93d044b08b26c611c8f0ba67cf565efd37"
+    },
+    {
+      "id": "foolish_soulcoat_material_soul_stone",
+      "name": "魂裳魂石",
+      "theme": "棕灰衣料、翻折衣襟与青色魂芯",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "2c723e9bf1b86ec7d65d6ddea2854f7f5f1c59a3fc0147aea8f3ebe93545a524"
+    },
+    {
+      "id": "foolish_bloom_biome_soul_stone",
+      "name": "绽晶魂石",
+      "theme": "紫晶洞穴中的多簇生长晶体",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "fe9ae89c1ac3163374e3eb2d593a58a91d66962595f8c4287be5c622ca5488ea"
+    },
+    {
+      "id": "foolish_storm_biome_soul_stone",
+      "name": "风暴魂石",
+      "theme": "绿冠、青雨与积水表面",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "0bcaa210441573b6cdc2f3c88eb4baa2c5fffaab42920a6e0f652cd6c4832e57"
+    },
+    {
+      "id": "foolish_time_biome_soul_stone",
+      "name": "时沙魂石",
+      "theme": "浅蓝时沙丘层与金色时果",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "540665f2de0207de0f571f20b1061d195969aff278d07d04cef4b7a6ab6ffc09"
+    },
+    {
+      "id": "foolish_scarlet_biome_soul_stone",
+      "name": "猩野魂石",
+      "theme": "猩褐土层、粉色膜与红色菌生",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "a0f5d0d5573d46b8d668d849c5223e29c102ffc3c0d7eb53a61796ed0310cd4a"
+    },
+    {
+      "id": "foolish_waste_biome_soul_stone",
+      "name": "废土魂石",
+      "theme": "灰褐废土、裂隙与毒色积液",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "d2602be8d198d190e3f27568f80398e8e1c1466505d40d0d900f737fb774f037"
+    },
+    {
+      "id": "foolish_mire_biome_soul_stone",
+      "name": "泥沼魂石",
+      "theme": "暗泥池、绿色浮叶与青色水纹",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "c5e567fa7a70a4739be632950f69f692c7ddaf7db7c9dda208c0f43d093126fa"
+    },
+    {
+      "id": "foolish_growth_biome_soul_stone",
+      "name": "繁生魂石",
+      "theme": "绿叶包覆本体与浅色花粉",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "74375c540d67aae5223224097cdc01c4c435b1b4e80f1240891b905921876495"
+    },
+    {
+      "id": "foolish_ash_biome_soul_stone",
+      "name": "灰烬魂石",
+      "theme": "灰褐炭木纹与零星残火",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "b531e469b9569f516ed0298d30ecbb7dd7fb51f855cdb14c368d446c28061a54"
+    },
+    {
+      "id": "soul_of_otherworld",
+      "name": "异境之魂",
+      "theme": "晶洞、雨林、水泽与猩野地表交织",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true,
+      "sha256": "8471876b856c8f44a82d36cd2a679338294967340b907710d48796ac38891df2"
+    }
+  ]
+}

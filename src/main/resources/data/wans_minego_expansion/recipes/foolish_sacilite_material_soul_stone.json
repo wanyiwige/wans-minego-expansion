@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:sacilite_shard"
+    },
+    "B": {
+      "item": "foolish:dull_sacilite_shard"
+    },
+    "C": {
+      "item": "foolish:azure_sacilite_lens"
+    },
+    "D": {
+      "item": "foolish:shining_sacilite_lens"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_sacilite_material_soul_stone"
+  }
+}

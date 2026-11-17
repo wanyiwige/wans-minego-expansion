@@ -1,0 +1,87 @@
+{
+  "schools": {
+    "symmetry_sect": [
+      "iss_magicfromtheeast"
+    ],
+    "spirit_sect": [
+      "iss_magicfromtheeast"
+    ],
+    "insect": [
+      "entomology_spell"
+    ],
+    "dream": [
+      "dreammagic"
+    ],
+    "wind": [
+      "wind_spellbooks"
+    ],
+    "annihilation": [
+      "legendary_spellbooks"
+    ],
+    "shadow": [
+      "bielgg_spells",
+      "roaring"
+    ],
+    "unstable": [
+      "bielgg_spells"
+    ],
+    "relicron": [
+      "bielgg_spells",
+      "eeeabsmobs"
+    ],
+    "infinity": [
+      "bielgg_spells",
+      "avaritia"
+    ],
+    "tainted": [
+      "bielgg_spells",
+      "witherstormmod"
+    ],
+    "trailblazer_arcana": [
+      "astralrail_cube"
+    ],
+    "fusion": [
+      "iss_csw"
+    ],
+    "ars_nouveau": [
+      "ars_nouveau_spellbooks"
+    ],
+    "abyssal": [
+      "cataclysm_spellbooks"
+    ],
+    "technomancy": [
+      "cataclysm_spellbooks"
+    ],
+    "esoteric": [
+      "esoteric_spell"
+    ],
+    "gluttony": [
+      "farmers_spell"
+    ],
+    "glintstone": [
+      "iss_elden_ring"
+    ],
+    "glutton": [
+      "bigeater_magic"
+    ]
+  },
+  "foolish": {
+    "requires": [
+      "foolish"
+    ],
+    "items": [
+      "foolish_pyre_soul_stone",
+      "foolish_timewelder_soul_stone",
+      "foolish_thrasher_soul_stone",
+      "foolish_sacilic_abomination_soul_stone",
+      "foolish_varmint_king_soul_stone",
+      "foolish_thunderbird_soul_stone",
+      "foolish_scarlant_queen_soul_stone",
+      "foolish_terrorflora_soul_stone",
+      "foolish_wendigrudge_soul_stone",
+      "foolish_astralis_soul_stone",
+      "soul_of_stellar_hollow",
+      "soul_of_foolish"
+    ]
+  }
+}

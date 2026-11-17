@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "item": "iss_csw:rune_weave"
+    },
+    "A": {
+      "item": "iss_csw:arcane_helmet"
+    },
+    "B": {
+      "item": "iss_csw:arcane_chestplate"
+    },
+    "C": {
+      "item": "iss_csw:arcane_leggings"
+    },
+    "D": {
+      "item": "iss_csw:arcane_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:fusion_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iss_csw"
+    }
+  ]
+}

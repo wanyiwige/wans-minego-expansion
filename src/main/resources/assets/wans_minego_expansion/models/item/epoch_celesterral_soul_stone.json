@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "wans_minego_expansion:item/epoch_celesterral_soul_stone"
+  }
+}

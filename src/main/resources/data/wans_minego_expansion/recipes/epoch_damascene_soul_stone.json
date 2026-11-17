@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:damascene_steel_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:damascene_steel_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:damascene_steel_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:damascene_steel_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:darksaltpeter"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_damascene_soul_stone",
+    "count": 1
+  }
+}

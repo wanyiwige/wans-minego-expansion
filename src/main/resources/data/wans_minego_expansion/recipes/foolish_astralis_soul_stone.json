@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:star_shard"
+    },
+    "B": {
+      "item": "foolish:stellar_sword"
+    },
+    "C": {
+      "item": "foolish:stellar_upgrade_template"
+    },
+    "D": {
+      "item": "foolish:star_shard"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_astralis_soul_stone"
+  }
+}

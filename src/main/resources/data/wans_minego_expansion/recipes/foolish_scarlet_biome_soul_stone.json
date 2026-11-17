@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:scarlet_silt"
+    },
+    "B": {
+      "item": "foolish:egg_membrane"
+    },
+    "C": {
+      "item": "foolish:scarlet_glow_fungus"
+    },
+    "D": {
+      "item": "foolish:scarlant_capsule"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "scarlet"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_scarlet_biome_soul_stone"
+  }
+}

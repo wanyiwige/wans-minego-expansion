@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:bunyip_fur"
+    },
+    "B": {
+      "item": "foolish:large_lily_pad"
+    },
+    "C": {
+      "item": "foolish:darkenstone"
+    },
+    "D": {
+      "item": "foolish:murken_berry"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "mire"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_mire_biome_soul_stone"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "cataclysm_spellbooks:abyssal_focus"
+    },
+    "A": {
+      "item": "cataclysm_spellbooks:abyssal_warlock_helmet"
+    },
+    "B": {
+      "item": "cataclysm_spellbooks:abyssal_warlock_chestplate"
+    },
+    "C": {
+      "item": "cataclysm_spellbooks:abyssal_warlock_leggings"
+    },
+    "D": {
+      "item": "cataclysm_spellbooks:abyssal_warlock_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:abyssal_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm_spellbooks"
+    }
+  ]
+}

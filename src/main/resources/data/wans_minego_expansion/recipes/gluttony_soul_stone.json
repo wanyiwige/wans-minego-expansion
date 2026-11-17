@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "farmers_spell:gluttony_focus"
+    },
+    "A": {
+      "item": "farmers_spell:gluttony_chef_hat"
+    },
+    "B": {
+      "item": "farmers_spell:gluttony_chef_apron"
+    },
+    "C": {
+      "item": "farmers_spell:gluttony_chef_leggings"
+    },
+    "D": {
+      "item": "farmers_spell:gluttony_chef_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:gluttony_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmers_spell"
+    }
+  ]
+}

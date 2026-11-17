@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "ars_nouveau_spellbooks:ars_nouveau_focus"
+    },
+    "A": {
+      "item": "ars_nouveau_spellbooks:source_mage_helmet"
+    },
+    "B": {
+      "item": "ars_nouveau_spellbooks:source_mage_chestplate"
+    },
+    "C": {
+      "item": "ars_nouveau_spellbooks:source_mage_leggings"
+    },
+    "D": {
+      "item": "ars_nouveau_spellbooks:source_mage_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:ars_nouveau_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ars_nouveau_spellbooks"
+    }
+  ]
+}

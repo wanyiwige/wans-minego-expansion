@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ERE",
+    "ROR",
+    "ERE"
+  ],
+  "key": {
+    "E": {
+      "tag": "entomology_spell:insect_focus"
+    },
+    "R": {
+      "item": "entomology_spell:swarm_rune"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:insect_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "entomology_spell"
+    }
+  ]
+}

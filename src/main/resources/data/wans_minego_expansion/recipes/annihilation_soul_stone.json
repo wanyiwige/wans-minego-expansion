@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "legendary_spellbooks:oblivionmancer_hat"
+    },
+    "B": {
+      "item": "legendary_spellbooks:oblivionmancer_robe"
+    },
+    "C": {
+      "item": "legendary_spellbooks:oblivionmancer_leggings"
+    },
+    "D": {
+      "item": "legendary_spellbooks:oblivionmancer_boots"
+    },
+    "E": {
+      "tag": "legendary_spellbooks:annihilation_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:annihilation_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "legendary_spellbooks"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:epoch_cauldron_proof"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:magnetite"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_cauldron_soul_stone",
+    "count": 1
+  }
+}

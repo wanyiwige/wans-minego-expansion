@@ -1,0 +1,25 @@
+{
+  "backup": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\backups\\20261010-095756-before-taiji-wind-glyph-fix",
+  "items": [
+    {
+      "file": "symmetry_sect_soul_stone.png",
+      "before_sha256": "f8dce13e564dcfe9517aca46e077d6a85440c604c361eb816eae480ce43db171",
+      "after_sha256": "1db8b697884ddf2678b13c80c9a0aba0a32132626f51fb1743cf084979ace548",
+      "after_size": [
+        18,
+        18
+      ],
+      "outer_pixels_unchanged": true
+    },
+    {
+      "file": "wind_soul_stone.png",
+      "before_sha256": "ee81ce0dc352a9e427cd5936c687a6be8c1ea3c847230203fc591cce1b6c7272",
+      "after_sha256": "9cecb44cce5e5190c01322bf3b5f1c3bd5c250c73d0d481fec3b3377f6fb944b",
+      "after_size": [
+        18,
+        18
+      ],
+      "outer_pixels_unchanged": true
+    }
+  ]
+}

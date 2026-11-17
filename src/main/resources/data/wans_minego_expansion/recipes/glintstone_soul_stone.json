@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "iss_elden_ring:glintstone_focus"
+    },
+    "A": {
+      "item": "iss_elden_ring:astrologer_hat"
+    },
+    "B": {
+      "item": "iss_elden_ring:astrologer_robe"
+    },
+    "C": {
+      "item": "iss_elden_ring:astrologer_leggings"
+    },
+    "D": {
+      "item": "iss_elden_ring:astrologer_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:glintstone_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iss_elden_ring"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:talisman_1"
+    },
+    {
+      "item": "splendour_ablaze_epoch:talisman_2"
+    },
+    {
+      "item": "splendour_ablaze_epoch:talisman_3"
+    },
+    {
+      "item": "splendour_ablaze_epoch:talisman_4"
+    },
+    {
+      "item": "splendour_ablaze_epoch:cinnabar"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_talisman_soul_stone",
+    "count": 1
+  }
+}

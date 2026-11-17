@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ERE",
+    "ROR",
+    "ERE"
+  ],
+  "key": {
+    "E": {
+      "tag": "kubejs:traveller_focus"
+    },
+    "R": {
+      "item": "minecraft:ender_pearl"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:traveller_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alex_caves_spellsbook"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "wans_minego_expansion:traveller_soul_stone"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "kubejs:traveller_focus"
+      }
+    }
+  ]
+}

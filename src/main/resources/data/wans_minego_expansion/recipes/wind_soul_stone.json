@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "wind_spellbooks:aeromancer_helmet"
+    },
+    "B": {
+      "item": "wind_spellbooks:aeromancer_chestplate"
+    },
+    "C": {
+      "item": "wind_spellbooks:aeromancer_leggings"
+    },
+    "D": {
+      "item": "wind_spellbooks:aeromancer_boots"
+    },
+    "E": {
+      "tag": "irons_spellbooks:wind_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:wind_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wind_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ]
+}

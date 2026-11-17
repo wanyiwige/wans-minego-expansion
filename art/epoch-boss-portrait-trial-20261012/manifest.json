@@ -1,0 +1,63 @@
+{
+  "status": "trial only",
+  "reference": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\art\\epoch-whole-stone-redraw-20261012\\empty-soul-stone-native.png",
+  "official_asset_files_unchanged": 170,
+  "previously_accepted_two_unchanged": true,
+  "local_appearance_reference": "local-reference/; named spell icons from spirit_mediumship_spell and entity textures from splendour_ablaze_epoch",
+  "built": false,
+  "deployed": false,
+  "items": [
+    {
+      "id": "epoch_fangzun_soul_stone",
+      "name": "玄印方尊",
+      "source_url": "https://www.mcmod.cn/item/894823.html",
+      "theme": "棕铜色雕纹柱体、上部冠饰与底部卷曲构件",
+      "native_size": [
+        17,
+        17
+      ],
+      "reference_alpha_exact": true,
+      "same_grid": true,
+      "sha256": "8b5b5a832959a00d60f59646145be7ab4670c86bbafeb6ddc8d49d8e6c4b785f"
+    },
+    {
+      "id": "epoch_cangyao_soul_stone",
+      "name": "苍尧星",
+      "source_url": "https://www.mcmod.cn/item/894824.html",
+      "theme": "灰黑金属环、交错杆件和中央机械轴心",
+      "native_size": [
+        17,
+        17
+      ],
+      "reference_alpha_exact": true,
+      "same_grid": true,
+      "sha256": "0fc07ca7a1509c626837b46a45869854e5c8fbfe2d941f4d011f106d92b5392d"
+    },
+    {
+      "id": "epoch_zixu_soul_stone",
+      "name": "子虚仙君",
+      "source_url": "https://www.mcmod.cn/item/896500.html",
+      "theme": "米白卷面、深靛蓝卷曲结构、墨迹和金色末端",
+      "native_size": [
+        17,
+        17
+      ],
+      "reference_alpha_exact": true,
+      "same_grid": true,
+      "sha256": "d5a85155c1bdd7a0cea5c560d5105038182351e8bc809036616de41549b66e35"
+    },
+    {
+      "id": "epoch_zhenyan_soul_stone",
+      "name": "震焰统帅",
+      "source_url": "https://www.mcmod.cn/item/921687.html",
+      "theme": "暗红褐机体、横向炮管、灰铁支撑和背部旗列",
+      "native_size": [
+        17,
+        17
+      ],
+      "reference_alpha_exact": true,
+      "same_grid": true,
+      "sha256": "3fb1a4e88d339fd73b0c8dfe76f4f927f489ca51b13974e77ec7db8b5222ac1e"
+    }
+  ]
+}

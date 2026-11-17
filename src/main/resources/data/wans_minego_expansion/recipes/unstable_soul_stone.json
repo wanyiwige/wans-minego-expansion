@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "bielgg_spells:broken_head"
+    },
+    "B": {
+      "item": "bielgg_spells:broken_chestplate"
+    },
+    "C": {
+      "item": "bielgg_spells:broken_legs"
+    },
+    "D": {
+      "item": "bielgg_spells:broken_feets"
+    },
+    "E": {
+      "tag": "bielgg_spells:unstable_focus"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:unstable_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bielgg_spells"
+    },
+    {
+      "type": "bielgg_spells:unstable_enabled"
+    }
+  ]
+}

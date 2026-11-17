@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wans_minego_expansion:foolish_pyre_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_timewelder_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_thrasher_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_sacilic_abomination_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_varmint_king_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_thunderbird_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_scarlant_queen_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_terrorflora_soul_stone"
+    },
+    {
+      "item": "wans_minego_expansion:foolish_wendigrudge_soul_stone"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:soul_of_stellar_hollow"
+  }
+}

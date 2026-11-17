@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "BOC",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "tag": "irons_spellbooks:glutton_focus"
+    },
+    "A": {
+      "item": "bigeater_magic:glutton_helmet"
+    },
+    "B": {
+      "item": "bigeater_magic:glutton_chestplate"
+    },
+    "C": {
+      "item": "bigeater_magic:glutton_leggings"
+    },
+    "D": {
+      "item": "bigeater_magic:glutton_boots"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:glutton_soul_stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bigeater_magic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ]
+}

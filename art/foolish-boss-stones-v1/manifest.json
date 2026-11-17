@@ -1,0 +1,870 @@
+{
+  "renderer": "render_foolish_boss_stones.py; accepted 18x18 family renderer",
+  "stones": [
+    {
+      "boss": "pyre",
+      "name": "焚堆",
+      "theme": "白炽火焰",
+      "file": "foolish_pyre_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "b0b229b3b16af65d2c952b85c633abd280fc6115774674ed42faad3704240253",
+      "glyph": [
+        "....O...",
+        "...OO...",
+        ".O.OOO..",
+        ".OOOOO..",
+        "OOOIIOO.",
+        "OOIIIIO.",
+        ".OIIIO..",
+        "..OOO..."
+      ],
+      "palette": [
+        [
+          24,
+          14,
+          20
+        ],
+        [
+          56,
+          35,
+          41
+        ],
+        [
+          98,
+          48,
+          40
+        ],
+        [
+          150,
+          59,
+          38
+        ],
+        [
+          195,
+          79,
+          35
+        ],
+        [
+          233,
+          116,
+          47
+        ],
+        [
+          255,
+          167,
+          73
+        ],
+        [
+          255,
+          218,
+          134
+        ],
+        [
+          255,
+          245,
+          197
+        ]
+      ]
+    },
+    {
+      "boss": "timewelder",
+      "name": "时铸者",
+      "theme": "时之沙漏",
+      "file": "foolish_timewelder_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "b0194cbaa10997c7cbf52f1fc3c9bd02dd2f3151bb316cb59644d6fe97e069bd",
+      "glyph": [
+        "OOOOOOOO",
+        ".OIIIIO.",
+        "..OIIO..",
+        "...OO...",
+        "...OO...",
+        "..OIIO..",
+        ".OIIIIO.",
+        "OOOOOOOO"
+      ],
+      "palette": [
+        [
+          13,
+          18,
+          43
+        ],
+        [
+          30,
+          40,
+          80
+        ],
+        [
+          46,
+          68,
+          123
+        ],
+        [
+          64,
+          93,
+          156
+        ],
+        [
+          88,
+          127,
+          190
+        ],
+        [
+          121,
+          159,
+          213
+        ],
+        [
+          166,
+          197,
+          233
+        ],
+        [
+          212,
+          231,
+          247
+        ],
+        [
+          243,
+          250,
+          255
+        ]
+      ]
+    },
+    {
+      "boss": "thrasher",
+      "name": "鞭打者",
+      "theme": "泥潭怒潮",
+      "file": "foolish_thrasher_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "f7f4335885b8b723b18bdf4741ba3e3c3a2d9ae2a29a4c7f83ea65d6c6b21a12",
+      "glyph": [
+        "....OOO.",
+        "...OIIOO",
+        "..OI...O",
+        ".OI.....",
+        "OOI..OO.",
+        "OII.OIIO",
+        ".OOOOOO.",
+        "..OOOO.."
+      ],
+      "palette": [
+        [
+          12,
+          32,
+          31
+        ],
+        [
+          26,
+          60,
+          55
+        ],
+        [
+          40,
+          89,
+          80
+        ],
+        [
+          57,
+          123,
+          104
+        ],
+        [
+          83,
+          165,
+          138
+        ],
+        [
+          121,
+          197,
+          166
+        ],
+        [
+          163,
+          223,
+          190
+        ],
+        [
+          212,
+          242,
+          221
+        ],
+        [
+          241,
+          255,
+          241
+        ]
+      ]
+    },
+    {
+      "boss": "sacilic_abomination",
+      "name": "紫晶突变体",
+      "theme": "三叉紫晶",
+      "file": "foolish_sacilic_abomination_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "5147f959ec4c43e3dde7386d336a9c90b592c16418db9cd2f0556158f52170b4",
+      "glyph": [
+        "...II...",
+        "..OIIO..",
+        "O.OIIO.O",
+        "IOOIIOOI",
+        "IOOIIOOI",
+        "IOOIIOOI",
+        ".OOOOOO.",
+        "..OOOO.."
+      ],
+      "palette": [
+        [
+          24,
+          14,
+          44
+        ],
+        [
+          51,
+          33,
+          78
+        ],
+        [
+          81,
+          50,
+          115
+        ],
+        [
+          112,
+          72,
+          149
+        ],
+        [
+          149,
+          97,
+          188
+        ],
+        [
+          182,
+          129,
+          217
+        ],
+        [
+          211,
+          168,
+          238
+        ],
+        [
+          235,
+          210,
+          255
+        ],
+        [
+          251,
+          240,
+          255
+        ]
+      ]
+    },
+    {
+      "boss": "varmint_king",
+      "name": "害兽王",
+      "theme": "腐蚀兽颅",
+      "file": "foolish_varmint_king_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "025b5ccb5c0a0a9292a76746239a2482c689dc375ddf045937c43addc64be415",
+      "glyph": [
+        "O......O",
+        "OOOOOOOO",
+        ".OIIIIO.",
+        "OO.OO.OO",
+        "OO.OO.OO",
+        ".OO..OO.",
+        "..OII.O.",
+        "..OOOO.."
+      ],
+      "palette": [
+        [
+          22,
+          32,
+          22
+        ],
+        [
+          43,
+          56,
+          32
+        ],
+        [
+          70,
+          83,
+          42
+        ],
+        [
+          98,
+          113,
+          50
+        ],
+        [
+          132,
+          155,
+          60
+        ],
+        [
+          174,
+          201,
+          79
+        ],
+        [
+          210,
+          229,
+          121
+        ],
+        [
+          235,
+          246,
+          179
+        ],
+        [
+          249,
+          255,
+          218
+        ]
+      ]
+    },
+    {
+      "boss": "thunderbird",
+      "name": "雷鸟",
+      "theme": "雷霆电闪",
+      "file": "foolish_thunderbird_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "eaebd66ab8b26c70a2290e4d9d3b9168c1bb8b92990c0d76f018567ac40e15fd",
+      "glyph": [
+        "....OOO.",
+        "...OII..",
+        "..OII...",
+        ".OII....",
+        "OOOOOOO.",
+        "...IIO..",
+        "..IIO...",
+        ".OO....."
+      ],
+      "palette": [
+        [
+          11,
+          23,
+          44
+        ],
+        [
+          28,
+          50,
+          81
+        ],
+        [
+          44,
+          81,
+          117
+        ],
+        [
+          55,
+          123,
+          157
+        ],
+        [
+          79,
+          165,
+          195
+        ],
+        [
+          117,
+          203,
+          220
+        ],
+        [
+          164,
+          232,
+          237
+        ],
+        [
+          214,
+          250,
+          246
+        ],
+        [
+          245,
+          255,
+          255
+        ]
+      ]
+    },
+    {
+      "boss": "scarlant_queen",
+      "name": "猩红女王",
+      "theme": "猩红王冠",
+      "file": "foolish_scarlant_queen_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "a0f5637ae4132cd8a09fca76941048fab8aedf4498032cccf57fb9ff776eb013",
+      "glyph": [
+        "O..II..O",
+        "OO.II.OO",
+        "OIOIIOIO",
+        "OIIIIIIO",
+        "OIIIIIIO",
+        "OOOOOOOO",
+        ".IIIIII.",
+        ".OOOOOO."
+      ],
+      "palette": [
+        [
+          38,
+          14,
+          28
+        ],
+        [
+          73,
+          21,
+          42
+        ],
+        [
+          115,
+          33,
+          59
+        ],
+        [
+          155,
+          44,
+          78
+        ],
+        [
+          197,
+          62,
+          101
+        ],
+        [
+          232,
+          98,
+          131
+        ],
+        [
+          244,
+          143,
+          171
+        ],
+        [
+          251,
+          196,
+          211
+        ],
+        [
+          255,
+          240,
+          230
+        ]
+      ]
+    },
+    {
+      "boss": "terrorflora",
+      "name": "怖蕈",
+      "theme": "花印与孢子",
+      "file": "foolish_terrorflora_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "3f70f7d8d85b3804df73e955201dd065dd8f6f7f1a7902c6214040bbac180857",
+      "glyph": [
+        "..OOOO..",
+        ".O.II.O.",
+        "O.OIIO.O",
+        "OII..IIO",
+        "OII..IIO",
+        "O.OIIO.O",
+        ".O.II.O.",
+        "..OOOO.."
+      ],
+      "palette": [
+        [
+          32,
+          18,
+          36
+        ],
+        [
+          65,
+          33,
+          63
+        ],
+        [
+          99,
+          53,
+          91
+        ],
+        [
+          133,
+          76,
+          112
+        ],
+        [
+          168,
+          104,
+          136
+        ],
+        [
+          196,
+          138,
+          165
+        ],
+        [
+          223,
+          174,
+          197
+        ],
+        [
+          243,
+          212,
+          228
+        ],
+        [
+          255,
+          243,
+          250
+        ]
+      ]
+    },
+    {
+      "boss": "wendigrudge",
+      "name": "怀恨巨灵",
+      "theme": "角颅怨灵",
+      "file": "foolish_wendigrudge_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "d7b33738a5f941b1ecdfa51ac73210c42182d33f75f09b9c1fefc3c367905707",
+      "glyph": [
+        "O......O",
+        "OO....OO",
+        ".OOOOOO.",
+        ".OI..IO.",
+        ".OI..IO.",
+        "..OOOO..",
+        "..O..O..",
+        "...OO..."
+      ],
+      "palette": [
+        [
+          20,
+          32,
+          33
+        ],
+        [
+          41,
+          59,
+          58
+        ],
+        [
+          64,
+          87,
+          83
+        ],
+        [
+          91,
+          116,
+          105
+        ],
+        [
+          124,
+          151,
+          133
+        ],
+        [
+          166,
+          186,
+          159
+        ],
+        [
+          203,
+          216,
+          189
+        ],
+        [
+          230,
+          238,
+          217
+        ],
+        [
+          249,
+          255,
+          240
+        ]
+      ]
+    },
+    {
+      "boss": "astralis",
+      "name": "阿斯塔瑞斯·堕落之星",
+      "theme": "粉金星刃",
+      "file": "foolish_astralis_soul_stone.png",
+      "native_size": [
+        18,
+        18
+      ],
+      "preview_size": [
+        1260,
+        1260
+      ],
+      "alpha": "binary 0/255",
+      "sha256": "c9c3740b3b4d253ad45364a6674bf02b34818963f368b147e622f1335ddfffba",
+      "glyph": [
+        "...II...",
+        "...II...",
+        ".OOIIOO.",
+        "OOIIIIOO",
+        ".OOIIOO.",
+        "...II...",
+        "..OII.O.",
+        "...OO..."
+      ],
+      "palette": [
+        [
+          32,
+          19,
+          35
+        ],
+        [
+          73,
+          38,
+          56
+        ],
+        [
+          118,
+          67,
+          67
+        ],
+        [
+          165,
+          117,
+          83
+        ],
+        [
+          216,
+          167,
+          110
+        ],
+        [
+          238,
+          202,
+          148
+        ],
+        [
+          242,
+          222,
+          187
+        ],
+        [
+          251,
+          238,
+          215
+        ],
+        [
+          255,
+          255,
+          240
+        ]
+      ]
+    }
+  ],
+  "preserved_school_textures": 20,
+  "composites": [
+    {
+      "file": "soul_of_stellar_hollow.png",
+      "name": "星渊之魂",
+      "native_size": [
+        18,
+        18
+      ],
+      "sha256": "b8f92ceb4506ba955ac1a69cecbdff08a5010d8feff7149b9771e899671fecb0",
+      "glyph": [
+        "..OOOO..",
+        ".OI..IO.",
+        "OI.OO.IO",
+        "O.OIIO.O",
+        "O.OIIO.O",
+        "OI.OO.IO",
+        ".OI..IO.",
+        "..OOOO.."
+      ],
+      "palette": [
+        [
+          19,
+          21,
+          42
+        ],
+        [
+          41,
+          37,
+          74
+        ],
+        [
+          72,
+          64,
+          115
+        ],
+        [
+          105,
+          91,
+          153
+        ],
+        [
+          138,
+          120,
+          184
+        ],
+        [
+          175,
+          160,
+          211
+        ],
+        [
+          206,
+          196,
+          235
+        ],
+        [
+          231,
+          223,
+          248
+        ],
+        [
+          249,
+          244,
+          255
+        ]
+      ]
+    },
+    {
+      "file": "soul_of_foolish.png",
+      "name": "Foolish之魂",
+      "native_size": [
+        18,
+        18
+      ],
+      "sha256": "590320ec19393102c23c3d46a5cfff20bbf19a9d6fd26a419550f21d43adbbf8",
+      "glyph": [
+        "...II...",
+        "O.OIIO.O",
+        "OOOIIOOO",
+        ".OIIIIO.",
+        "OOIIIIOO",
+        ".OI..IO.",
+        "..OIIO..",
+        "...OO..."
+      ],
+      "palette": [
+        [
+          37,
+          22,
+          40
+        ],
+        [
+          73,
+          44,
+          64
+        ],
+        [
+          118,
+          81,
+          78
+        ],
+        [
+          165,
+          121,
+          94
+        ],
+        [
+          206,
+          165,
+          121
+        ],
+        [
+          231,
+          199,
+          151
+        ],
+        [
+          243,
+          223,
+          190
+        ],
+        [
+          251,
+          237,
+          219
+        ],
+        [
+          255,
+          255,
+          244
+        ]
+      ]
+    }
+  ]
+}

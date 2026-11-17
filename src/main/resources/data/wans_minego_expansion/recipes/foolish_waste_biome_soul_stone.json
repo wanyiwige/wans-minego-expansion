@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:radium"
+    },
+    "B": {
+      "item": "foolish:toxic_waste"
+    },
+    "C": {
+      "item": "foolish:corroded_metal"
+    },
+    "D": {
+      "item": "foolish:waste_soil"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "waste"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_waste_biome_soul_stone"
+  }
+}

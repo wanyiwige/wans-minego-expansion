@@ -1,0 +1,527 @@
+[
+  {
+    "key": "smithing",
+    "name": "锻造学派魂石",
+    "english": "Smithing School Soul Stone",
+    "provider": "iron_spell_smithing_template_addon",
+    "school": "iron_spell_smithing_template_addon:smithing",
+    "attribute": "iron_spell_smithing_template_addon:smithing_spell_power",
+    "item": "smithing_soul_stone",
+    "material": "iron_spell_smithing_template_addon:smithing_rune",
+    "focus": "iron_spell_smithing_template_addon:smithing_focus",
+    "armor": null,
+    "zh_effect": "护甲 +2。",
+    "en_effect": "+2 Armor.",
+    "palette": [
+      "291405",
+      "a45012",
+      "ffd17b"
+    ],
+    "runes": [
+      "ed8a27",
+      "ffe8af"
+    ],
+    "glyph": [
+      "..OOOO..",
+      "..OIII..",
+      "....O...",
+      "....O...",
+      "IIIIIIII",
+      ".OOOOOO.",
+      "...OO...",
+      "..OOOO.."
+    ]
+  },
+  {
+    "key": "curse",
+    "name": "诅咒学派魂石",
+    "english": "Curse School Soul Stone",
+    "provider": "cursespells",
+    "school": "cursespells:curse",
+    "attribute": "cursespells:curse_spell_power",
+    "item": "curse_soul_stone",
+    "material": "cursespells:curse_rune",
+    "focus": "cursespells:curse_focus",
+    "armor": [
+      "cursespells:transcendent_helmet",
+      "cursespells:transcendent_chestplate",
+      "cursespells:transcendent_leggings",
+      "cursespells:transcendent_boots"
+    ],
+    "zh_effect": "诅咒魔法命中使目标虚弱 I，持续3秒。",
+    "en_effect": "Curse magic hits inflict Weakness I for 3 seconds.",
+    "palette": [
+      "17141b",
+      "2a667d",
+      "9ad7e9"
+    ],
+    "runes": [
+      "0875a3",
+      "8ceeff"
+    ],
+    "glyph": [
+      ".OO.....",
+      "O..O....",
+      "O..O..I.",
+      ".OO..I.I",
+      "...O.I.I",
+      "...O..I.",
+      "....OO..",
+      ".....O.."
+    ]
+  },
+  {
+    "key": "time",
+    "name": "时间学派魂石",
+    "english": "Time School Soul Stone",
+    "provider": "irons_chronomancy",
+    "school": "irons_chronomancy:time",
+    "attribute": "irons_chronomancy:time_spell_power",
+    "item": "time_soul_stone",
+    "material": "irons_chronomancy:time_rune",
+    "focus": "irons_chronomancy:time_focus",
+    "armor": [
+      "irons_chronomancy:chronomancer_helmet",
+      "irons_chronomancy:chronomancer_chestplate",
+      "irons_chronomancy:chronomancer_leggings",
+      "irons_chronomancy:chronomancer_boots"
+    ],
+    "zh_effect": "法术冷却缩减 +5%。",
+    "en_effect": "+5% Cooldown Reduction.",
+    "palette": [
+      "29211a",
+      "b38d37",
+      "fff0a3"
+    ],
+    "runes": [
+      "d9ad44",
+      "fff5b4"
+    ],
+    "glyph": [
+      "...OOO..",
+      "..O...O.",
+      ".O..I..O",
+      "O...I..O",
+      "O...III.",
+      ".O......",
+      "..OOOO..",
+      "........"
+    ]
+  },
+  {
+    "key": "echo",
+    "name": "回响学派魂石",
+    "english": "Echo School Soul Stone",
+    "provider": "echo_spellbooks",
+    "school": "echo_spellbooks:echo",
+    "attribute": "echo_spellbooks:echo_spell_power",
+    "item": "echo_soul_stone",
+    "material": "echo_spellbooks:echo_rune",
+    "focus": "echo_spellbooks:echo_focus",
+    "armor": [
+      "echo_spellbooks:echo_warden_helmet",
+      "echo_spellbooks:echo_warden_chestplate",
+      "echo_spellbooks:echo_warden_leggings",
+      "echo_spellbooks:echo_warden_boots"
+    ],
+    "zh_effect": "回响魔法命中使目标发光，持续4秒。",
+    "en_effect": "Echo magic hits reveal the target with Glowing for 4 seconds.",
+    "palette": [
+      "04232a",
+      "187c83",
+      "d7ffff"
+    ],
+    "runes": [
+      "37b6bd",
+      "c4ffff"
+    ],
+    "glyph": [
+      "..I.....",
+      "..I...I.",
+      "I.I...I.",
+      "I.I.I.I.",
+      "IIIIIIII",
+      ".O.O.O..",
+      "..O.O...",
+      "........"
+    ]
+  },
+  {
+    "key": "exo",
+    "name": "星宇学派魂石",
+    "english": "Exo School Soul Stone",
+    "provider": "roacw",
+    "school": "roacw:exo",
+    "attribute": "roacw:exo_spell_power",
+    "item": "exo_soul_stone",
+    "material": "roacw:charged_auric_ingot",
+    "focus": "curios:exo_focus",
+    "armor": null,
+    "zh_effect": "护甲韧性 +1。",
+    "en_effect": "+1 Armor Toughness.",
+    "palette": [
+      "030d2e",
+      "094aa9",
+      "76dfff"
+    ],
+    "runes": [
+      "00a7f2",
+      "b3ffff"
+    ],
+    "glyph": [
+      "OO....II",
+      "OO.OO.II",
+      "...OO...",
+      "..OOOO..",
+      "..O..O..",
+      "..O..OOO",
+      "OOO..O.O",
+      "O.O..OOO"
+    ]
+  },
+  {
+    "key": "magnetic",
+    "name": "磁极学派魂石",
+    "english": "Magnetic School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:magnetic",
+    "attribute": "alex_caves_spellsbook:magnetic_spell_power",
+    "item": "magnetic_school_soul_stone",
+    "material": "alex_caves_spellsbook:magnetic_polarity_rune",
+    "focus": "alex_caves_spellsbook:magnetic_focus",
+    "armor": [
+      "alex_caves_spellsbook:magnetic_mage_helmet",
+      "alex_caves_spellsbook:magnetic_mage_chestplate",
+      "alex_caves_spellsbook:magnetic_mage_leggings",
+      "alex_caves_spellsbook:magnetic_mage_boots"
+    ],
+    "zh_effect": "击退抗性 +0.10。",
+    "en_effect": "+0.10 Knockback Resistance.",
+    "palette": [
+      "110d25",
+      "3055a5",
+      "a5b6ee"
+    ],
+    "runes": [
+      "ef3d49",
+      "3698ff"
+    ],
+    "glyph": [
+      "..OO....",
+      "OOO.....",
+      "..OOOO..",
+      "....OO..",
+      "..II....",
+      "..IIII..",
+      ".....III",
+      "....II.."
+    ]
+  },
+  {
+    "key": "candy",
+    "name": "糖果学派魂石",
+    "english": "Candy School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:candy",
+    "attribute": "alex_caves_spellsbook:candy_spell_power",
+    "item": "candy_school_soul_stone",
+    "material": "alex_caves_spellsbook:candy_rune",
+    "focus": "alex_caves_spellsbook:candy_focus",
+    "armor": [
+      "alex_caves_spellsbook:candy_wizard_hat",
+      "alex_caves_spellsbook:candy_wizard_robe",
+      "alex_caves_spellsbook:candy_wizard_leggings",
+      "alex_caves_spellsbook:candy_wizard_boots"
+    ],
+    "zh_effect": "最大生命值 +2。",
+    "en_effect": "+2 Maximum Health.",
+    "palette": [
+      "351222",
+      "cf678e",
+      "ffe4ed"
+    ],
+    "runes": [
+      "ff91b6",
+      "b8fff3"
+    ],
+    "glyph": [
+      "..OOOO..",
+      ".OIIIIO.",
+      "OI....IO",
+      "OI..OOIO",
+      "OI..O.IO",
+      ".O..O.O.",
+      "...O....",
+      "..O....."
+    ]
+  },
+  {
+    "key": "cloud",
+    "name": "云学派魂石",
+    "english": "Cloud School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:cloud",
+    "attribute": "alex_caves_spellsbook:cloud_spell_power",
+    "item": "cloud_school_soul_stone",
+    "material": "minecraft:phantom_membrane",
+    "focus": "alex_caves_spellsbook:cloud_focus",
+    "armor": null,
+    "zh_effect": "移动速度 +5%。",
+    "en_effect": "+5% Movement Speed.",
+    "palette": [
+      "202733",
+      "7d8696",
+      "f8f9ff"
+    ],
+    "runes": [
+      "b8c3d1",
+      "ffe279"
+    ],
+    "glyph": [
+      "..OO....",
+      ".OIIO.O.",
+      "OIIIIOIO",
+      "OOOOOOOO",
+      "..I..I..",
+      "........",
+      ".I..I...",
+      "........"
+    ]
+  },
+  {
+    "key": "toxic",
+    "name": "辐射学派魂石",
+    "english": "Radiation School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:toxic",
+    "attribute": "alex_caves_spellsbook:toxic_spell_power",
+    "item": "toxic_school_soul_stone",
+    "material": "alexscaves:uranium",
+    "focus": "alex_caves_spellsbook:toxic_focus",
+    "armor": null,
+    "zh_effect": "辐射魔法命中施加中毒 I，持续3秒。",
+    "en_effect": "Radiation magic hits inflict Poison I for 3 seconds.",
+    "palette": [
+      "151e0c",
+      "78a00f",
+      "dcff77"
+    ],
+    "runes": [
+      "b7f22b",
+      "ffff48"
+    ],
+    "glyph": [
+      "OO....I.",
+      "O.O..III",
+      "OO....I.",
+      "..O..O..",
+      "...OO...",
+      "..O..O..",
+      ".III..OO",
+      "..I..O.O"
+    ]
+  },
+  {
+    "key": "astral",
+    "name": "星辉学派魂石",
+    "english": "Astral School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "kubejs:astral",
+    "attribute": "kubejs:astral_spell_power",
+    "item": "astral_soul_stone",
+    "material": "asterismarcanum:astral_rune",
+    "focus": "kubejs:astral_focus",
+    "armor": null,
+    "zh_effect": "法力回复 +5%。",
+    "en_effect": "+5% Mana Regeneration.",
+    "palette": [
+      "24182e",
+      "a18bac",
+      "ebffe3"
+    ],
+    "runes": [
+      "ddd5ee",
+      "daffcf"
+    ],
+    "glyph": [
+      "I....OO.",
+      ".O..O..O",
+      "..OO..OO",
+      "...I.O..",
+      "....O...",
+      "..OO....",
+      ".O..O...",
+      "I....I.."
+    ]
+  },
+  {
+    "key": "traveller",
+    "name": "旅者学派魂石",
+    "english": "Traveller School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "kubejs:traveller",
+    "attribute": "kubejs:traveller_spell_power",
+    "item": "traveller_soul_stone",
+    "material": "minecraft:ender_pearl",
+    "focus": "kubejs:traveller_focus",
+    "armor": null,
+    "zh_effect": "移动速度 +5%。",
+    "en_effect": "+5% Movement Speed.",
+    "palette": [
+      "052a27",
+      "29a495",
+      "d5fff3"
+    ],
+    "runes": [
+      "62ddbd",
+      "fff09a"
+    ],
+    "glyph": [
+      "OOO.....",
+      "O.IOOO..",
+      "O.IO.IO.",
+      "..IO.IO.",
+      "..IO.OIO",
+      "..IOO.IO",
+      "....I.IO",
+      "....OOO."
+    ]
+  },
+  {
+    "key": "hazen_cosmic",
+    "name": "寰宇学派魂石",
+    "english": "Cosmic School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "attribute": "alex_caves_spellsbook:hazen_cosmic_spell_power",
+    "item": "hazen_cosmic_soul_stone",
+    "material": "alex_caves_spellsbook:hazen_cosmic_rune",
+    "focus": "alex_caves_spellsbook:hazen/cosmic_focus",
+    "armor": [
+      "alex_caves_spellsbook:hazen_cosmic_scholar_helmet",
+      "alex_caves_spellsbook:hazen_cosmic_scholar_chestplate",
+      "alex_caves_spellsbook:hazen_cosmic_scholar_leggings",
+      "alex_caves_spellsbook:hazen_cosmic_scholar_boots"
+    ],
+    "zh_effect": "召唤物伤害 +5%。",
+    "en_effect": "+5% Summon Damage.",
+    "palette": [
+      "050d1d",
+      "1e3e65",
+      "b2d9f9"
+    ],
+    "runes": [
+      "3a81b3",
+      "ffde64"
+    ],
+    "glyph": [
+      "....OOO.",
+      "...OIIIO",
+      "...OIIIO",
+      "....OOO.",
+      "..OO....",
+      ".OI.....",
+      ".O......",
+      "I......."
+    ]
+  },
+  {
+    "key": "hazen_radiance",
+    "name": "光辉学派魂石",
+    "english": "Radiance School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:hazen_radiance",
+    "attribute": "alex_caves_spellsbook:hazen_radiance_spell_power",
+    "item": "hazen_radiance_soul_stone",
+    "material": "alex_caves_spellsbook:hazen_radiance_rune",
+    "focus": "alex_caves_spellsbook:hazen/radiance_focus",
+    "armor": null,
+    "zh_effect": "法术抗性 +5%。",
+    "en_effect": "+5% Spell Resistance.",
+    "palette": [
+      "2a213b",
+      "a077ba",
+      "f4f7ff"
+    ],
+    "runes": [
+      "cc99f0",
+      "fffaff"
+    ],
+    "glyph": [
+      "...II...",
+      ".I.OO.I.",
+      "..O..O..",
+      "IOI..IOI",
+      "..O..O..",
+      ".IOOOOI.",
+      "........",
+      "OOOOOOOO"
+    ]
+  },
+  {
+    "key": "hazen_shadow",
+    "name": "黑暗学派魂石",
+    "english": "Darkness School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+    "item": "hazen_shadow_soul_stone",
+    "material": "alex_caves_spellsbook:hazen_shadow_rune",
+    "focus": "alex_caves_spellsbook:hazen/shadow_focus",
+    "armor": null,
+    "zh_effect": "施法时间缩减 +5%。",
+    "en_effect": "+5% Cast Time Reduction.",
+    "palette": [
+      "0c081b",
+      "46346b",
+      "af9bd2"
+    ],
+    "runes": [
+      "7556bd",
+      "c4a7fb"
+    ],
+    "glyph": [
+      "..OOOO..",
+      ".OIIIIO.",
+      "OI.O..IO",
+      "O..O...O",
+      "...O..O.",
+      "..O..O..",
+      ".O..O...",
+      ".OOO...."
+    ]
+  },
+  {
+    "key": "hazen_hydro",
+    "name": "海怒学派魂石",
+    "english": "Hydro School Soul Stone",
+    "provider": "alex_caves_spellsbook",
+    "school": "alex_caves_spellsbook:hazen_hydro",
+    "attribute": "alex_caves_spellsbook:hazen_hydro_spell_power",
+    "item": "hazen_hydro_soul_stone",
+    "material": "alex_caves_spellsbook:hazen_hydro_rune",
+    "focus": "alex_caves_spellsbook:hazen/hydro_focus",
+    "armor": null,
+    "zh_effect": "游泳速度 +10%。",
+    "en_effect": "+10% Swim Speed.",
+    "palette": [
+      "08172e",
+      "1b5ca6",
+      "89e6ff"
+    ],
+    "runes": [
+      "2894e8",
+      "9af6ff"
+    ],
+    "glyph": [
+      "...OO...",
+      "..OIIO..",
+      ".OIIIO..",
+      "OIIIOOOO",
+      "OOO.....",
+      "....OO..",
+      "..OOIIO.",
+      "OOOOOOOO"
+    ]
+  }
+]

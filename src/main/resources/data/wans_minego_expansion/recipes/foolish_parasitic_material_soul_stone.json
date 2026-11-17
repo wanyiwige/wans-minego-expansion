@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:parasitic_stinger"
+    },
+    "B": {
+      "item": "foolish:hyper_stinger"
+    },
+    "C": {
+      "item": "foolish:burn_stinger"
+    },
+    "D": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "item": "mine_fargo:empty_soul_stone"
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_parasitic_material_soul_stone"
+  }
+}

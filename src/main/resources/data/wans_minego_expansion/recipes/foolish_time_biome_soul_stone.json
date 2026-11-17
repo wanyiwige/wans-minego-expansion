@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:chronosand"
+    },
+    "B": {
+      "item": "foolish:warp_amber"
+    },
+    "C": {
+      "item": "foolish:timefruit"
+    },
+    "D": {
+      "item": "foolish:timewood_log"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "time"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_time_biome_soul_stone"
+  }
+}

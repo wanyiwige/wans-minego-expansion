@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "foolish"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BOC",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "foolish:ashen_log"
+    },
+    "B": {
+      "item": "foolish:scorchslate"
+    },
+    "C": {
+      "item": "foolish:ashflower"
+    },
+    "D": {
+      "item": "foolish:volcanic_hollowstone_rod"
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "wans_minego_expansion:foolish_attuned_soul_stone",
+      "nbt": {
+        "FoolishBiomeSoul": "ash"
+      }
+    }
+  },
+  "result": {
+    "item": "wans_minego_expansion:foolish_ash_biome_soul_stone"
+  }
+}

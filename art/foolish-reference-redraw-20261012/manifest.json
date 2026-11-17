@@ -1,0 +1,155 @@
+{
+  "status": "trial only",
+  "reference": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\wans-minego-expansion\\art\\epoch-whole-stone-redraw-20261012\\empty-soul-stone-native.png",
+  "reference_jar": "mods/foolish-1.3.0 patched.jar",
+  "official_assets_unchanged": 170,
+  "active_jar_unchanged": true,
+  "built": false,
+  "deployed": false,
+  "items": [
+    {
+      "id": "foolish_pyre_soul_stone",
+      "name": "焚堆魂石",
+      "theme": "赤红熔躯、狮口与浅骨腭",
+      "sha256": "ec8a4aa145ae380c45d66fb082abdb5096595e9cdc106a93432eff27c73c3857",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_timewelder_soul_stone",
+      "name": "时铸者魂石",
+      "theme": "浅蓝紫躯体与内嵌金色时钟",
+      "sha256": "7b2715f447564da8c4551cdf19d837dc729fa54613b8691db899432fe32d50dc",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_thrasher_soul_stone",
+      "name": "鞭打者魂石",
+      "theme": "绿皮鱼兽、青色鳍与钩状下颌",
+      "sha256": "4d17685e1270e3189115800858cc88100f313d95176ca28673998b2e6f6b4a99",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_sacilic_abomination_soul_stone",
+      "name": "紫晶突变体魂石",
+      "theme": "深紫晶体、裂口与青色萦光",
+      "sha256": "2b4e52b8bbc4946291ac76379f9aba1a893db032c24916ce51495f89a24332fe",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_varmint_king_soul_stone",
+      "name": "害兽王魂石",
+      "theme": "灰绿鼠兽、浅骨口部与毒绿侵染",
+      "sha256": "09bb5a92d23ce69d6e1edcf8e5b4562f54c593535f7a95660b97a3c551ff7bc8",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_thunderbird_soul_stone",
+      "name": "雷鸟魂石",
+      "theme": "青黑羽面、金喙与眼部电光",
+      "sha256": "a192ae95e1b48892f55074a4a44479a5832e3070f8408e368f87be3985764b28",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_scarlant_queen_soul_stone",
+      "name": "猩红女王魂石",
+      "theme": "猩红甲壳、暗色颚与侧肢",
+      "sha256": "12054aeaec09ea270e80d8182c3f8afdd308fa4193aa4d6915006b52b2f31196",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_terrorflora_soul_stone",
+      "name": "怖蕈魂石",
+      "theme": "绿叶本体、粉红花瓣与橙色口部",
+      "sha256": "2cc32e0953a13165efad3ccccc378ba7fdcac73022b9bdd160859295a4eb1694",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_wendigrudge_soul_stone",
+      "name": "怀恨巨灵魂石",
+      "theme": "暗红褐肉躯、骨色颅腭与翼侧",
+      "sha256": "e5a7ea4670b344deb14e51e9ba46b05933b30a0b093aaf727f6543f991cb89c7",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "foolish_astralis_soul_stone",
+      "name": "阿斯塔瑞斯·堕落之星魂石",
+      "theme": "紫粉躯体、金色星芒与白金刃",
+      "sha256": "ad81295dd725fb70c78b156d103916fd40a4fe80a3be5f658601eb46f88eae30",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "soul_of_stellar_hollow",
+      "name": "星渊之魂",
+      "theme": "多种 Boss 材质环绕星刃核心",
+      "sha256": "9368911fbbf3f7b74ce135bcc2086df5b95f6ebd920edd6b7ea953aca4641cfd",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    },
+    {
+      "id": "soul_of_foolish",
+      "name": "Foolish之魂",
+      "theme": "熔红、青羽、紫晶与猩甲合铸",
+      "sha256": "a932da5e96cd4929165f77b2ff5c47f511e48391a5eb039dac5df0cfb2f71546",
+      "size": [
+        17,
+        17
+      ],
+      "alpha_exact": true,
+      "pixel_grid_verified": true
+    }
+  ]
+}

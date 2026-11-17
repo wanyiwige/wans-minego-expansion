@@ -1,0 +1,47 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "foolish:pyre",
+      "required": false
+    },
+    {
+      "id": "foolish:timewelder",
+      "required": false
+    },
+    {
+      "id": "foolish:thrasher",
+      "required": false
+    },
+    {
+      "id": "foolish:sacilic_abomination",
+      "required": false
+    },
+    {
+      "id": "foolish:varmint_king",
+      "required": false
+    },
+    {
+      "id": "foolish:thunderbird",
+      "required": false
+    },
+    {
+      "id": "foolish:scarlant_queen",
+      "required": false
+    },
+    {
+      "id": "foolish:terrorflora",
+      "required": false
+    },
+    {
+      "id": "foolish:wendigrudge",
+      "required": false
+    },
+    {
+      "id": "foolish:astralis",
+      "required": false
+    },
+    "minecraft:ender_dragon",
+    "minecraft:wither"
+  ]
+}

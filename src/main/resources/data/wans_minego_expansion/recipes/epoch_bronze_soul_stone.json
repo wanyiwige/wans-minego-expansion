@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "splendour_ablaze_epoch:bronze_ingot"
+    },
+    {
+      "item": "minecraft:shield"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_bronze_soul_stone",
+    "count": 1
+  }
+}

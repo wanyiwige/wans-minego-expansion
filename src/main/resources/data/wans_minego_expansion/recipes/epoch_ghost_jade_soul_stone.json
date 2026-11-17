@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "splendour_ablaze_epoch"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mine_fargo:empty_soul_stone"
+    },
+    {
+      "item": "splendour_ablaze_epoch:ghostjadependant"
+    },
+    {
+      "item": "splendour_ablaze_epoch:jade"
+    },
+    {
+      "item": "splendour_ablaze_epoch:luminousjewel"
+    }
+  ],
+  "result": {
+    "item": "wans_minego_expansion:epoch_ghost_jade_soul_stone",
+    "count": 1
+  }
+}
